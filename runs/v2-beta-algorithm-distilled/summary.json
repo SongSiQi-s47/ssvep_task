@@ -1,0 +1,6 @@
+{
+  "competition_mean_accuracy": 0.5625,
+  "competition_std_accuracy": 0.01473139127471974,
+  "seeds_evaluated": 3,
+  "note": "All training and selection uses BETA only; paired comparisons use the same split and initialization seeds."
+}

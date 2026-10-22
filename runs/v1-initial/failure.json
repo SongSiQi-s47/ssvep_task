@@ -1,0 +1,5 @@
+{
+  "complete": false,
+  "failure": "CUDA 11.3 NVRTC complex abs kernel does not support RTX4060 architecture; replaced abs(fft)^2 with mathematically identical real^2+imag^2. Full GPU models and distillation backward then passed.",
+  "replacement_run": "v1-initial-r1"
+}

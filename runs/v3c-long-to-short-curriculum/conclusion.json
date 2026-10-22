@@ -1,0 +1,8 @@
+{
+  "chosen_screen_direction": null,
+  "confirmation": null,
+  "direction_supported": false,
+  "no_competition_or_holdout_evaluation": true,
+  "small_scale_exploratory": true,
+  "next_action": "Consider full BETA subject-isolated comparison only if confirmation passes; do not tune on D1/D2."
+}

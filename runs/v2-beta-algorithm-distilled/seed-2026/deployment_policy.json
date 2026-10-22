@@ -1,0 +1,27 @@
+{
+  "algorithm": "fbcca",
+  "selected_by": "BETA development subject accuracy only",
+  "window_seconds": 1.0,
+  "sampling_rate_hz": 250,
+  "causal_filter": false,
+  "channels": [
+    "CP3",
+    "CPZ",
+    "CP4",
+    "PO3",
+    "POZ",
+    "PO4"
+  ],
+  "frequencies_hz": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "calibration_weight": 0.0,
+  "allow_support_calibration": false
+}

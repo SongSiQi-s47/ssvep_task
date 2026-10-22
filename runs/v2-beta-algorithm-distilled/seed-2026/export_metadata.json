@@ -1,0 +1,22 @@
+{
+  "chosen_by": "highest BETA development accuracy among direct/distilled candidates; never D1/D2",
+  "run": "v2-beta-algorithm-distilled",
+  "seed": 2026,
+  "model": "distilled",
+  "beta_development_accuracy": 0.61875,
+  "parameters": 6484,
+  "artifact_bytes": 70510,
+  "input": "float32 [batch,6,250] after documented offline bandpass and per-original-trial normalization",
+  "channels": [
+    "CP3",
+    "CPZ",
+    "CP4",
+    "PO3",
+    "POZ",
+    "PO4"
+  ],
+  "sample_rate_hz": 250,
+  "outputs": "eight logits, argmax maps 0..7 to 8..15 Hz",
+  "validation": "CPU original/save-load outputs match for batch sizes 1 and 8",
+  "warning": "Neural candidate export; the development-selected overall default remains FBCCA."
+}

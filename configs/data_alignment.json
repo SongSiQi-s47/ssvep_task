@@ -1,0 +1,140 @@
+{
+  "competition": {
+    "channels": [
+      "CP3",
+      "CPZ",
+      "CP4",
+      "PO3",
+      "POZ",
+      "PO4"
+    ],
+    "sampling_rate_hz": 250,
+    "stim_id_to_frequency_hz": {
+      "0": 8,
+      "1": 9,
+      "2": 10,
+      "3": 11,
+      "4": 12,
+      "5": 13,
+      "6": 14,
+      "7": 15
+    },
+    "units": null,
+    "onset_sample": null,
+    "subject_mapping": null,
+    "external_data_allowed": null,
+    "missing_information_status": {
+      "confirmed_by_user": "temporarily_unavailable",
+      "confirmation_date": "2026-10-14",
+      "action": "retain_unknown_values; continue public data acquisition and structure verification",
+      "partially_resolved_by": "live QA transcript supplied 2026-10-14; sample rate and ordered frequency mapping provisionally extracted"
+    },
+    "parameter_evidence": {
+      "source": "docs/sources/live_qa_original_lines.txt",
+      "source_sha256": "1e5b94bcb32d4b4680f5ca301e5c1ed46557a97b2bb335c129523fc78558045e",
+      "sampling_rate": {
+        "original_lines": [
+          143,
+          147
+        ],
+        "status": "live_statement_provisional_for_formal_data"
+      },
+      "frequency_mapping": {
+        "original_lines": [
+          149,
+          163,
+          1019,
+          1029,
+          941
+        ],
+        "status": "ordered_mapping_inferred_from_live_statement; confirm formal configuration"
+      },
+      "units": {
+        "original_lines": [
+          327,
+          337
+        ],
+        "raw_term": "微幅",
+        "interpreted_unit": "uV",
+        "status": "transcription_interpretation_unconfirmed; no amplitude conversion"
+      },
+      "preprocessing": {
+        "organizer_added_preprocessing": false,
+        "original_lines": [
+          333,
+          337
+        ],
+        "device_internal_filters": "unknown"
+      }
+    },
+    "formal_format": "non_CSV_unspecified",
+    "formal_channel_layout": "unconfirmed",
+    "formal_trial_samples": "variable",
+    "provided_labeled_references": {
+      "per_class": 1,
+      "classes": 8,
+      "scope": "per_group_definition_unconfirmed",
+      "original_lines": [
+        601,
+        631,
+        2421,
+        2431
+      ]
+    }
+  },
+  "beta": {
+    "sampling_rate_hz": 250,
+    "axes": [
+      "channel",
+      "time",
+      "block",
+      "condition"
+    ],
+    "read_frequency_and_channels_from": "data.suppl_info",
+    "pre_stimulus_seconds": 0.5,
+    "phase_metadata_requires_2022_correction": true,
+    "phase_correction_pi_units": [
+      1.5,
+      0,
+      0.5,
+      1
+    ]
+  },
+  "nakanishi2015": {
+    "sampling_rate_hz": 256,
+    "axes": [
+      "target",
+      "channel",
+      "time",
+      "trial"
+    ],
+    "frequency_hz": [
+      9.25,
+      11.25,
+      13.25,
+      9.75,
+      11.75,
+      13.75,
+      10.25,
+      12.25,
+      14.25,
+      10.75,
+      12.75,
+      14.75
+    ],
+    "stimulus_onset_sample_1based": 39,
+    "channel_alignment": "partial_overlap_only"
+  },
+  "split_policy": {
+    "group_by": [
+      "dataset",
+      "confirmed_subject",
+      "session",
+      "original_trial"
+    ],
+    "create_windows_after_split": true,
+    "fit_normalization_on_training_only": true,
+    "competition_formal_test_usage": "organizer-designated labeled calibration references may adapt model; remaining unlabeled samples are prediction targets",
+    "subject_relationship": "contradictory live statements; do not assume D1/D2 are separate subjects"
+  }
+}

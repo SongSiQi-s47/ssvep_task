@@ -1,0 +1,578 @@
+[
+  {
+    "uid": "D1_trials/task0",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 1
+  },
+  {
+    "uid": "D1_trials/task1",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 6
+  },
+  {
+    "uid": "D1_trials/task2",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 4
+  },
+  {
+    "uid": "D1_trials/task3",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 5
+  },
+  {
+    "uid": "D1_trials/task4",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 3
+  },
+  {
+    "uid": "D1_trials/task5",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 7
+  },
+  {
+    "uid": "D1_trials/task6",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 2
+  },
+  {
+    "uid": "D1_trials/task7",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 0
+  },
+  {
+    "uid": "D1_trials/task8",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 4
+  },
+  {
+    "uid": "D1_trials/task9",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 7
+  },
+  {
+    "uid": "D1_trials/task10",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 2
+  },
+  {
+    "uid": "D1_trials/task11",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 6
+  },
+  {
+    "uid": "D1_trials/task12",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 3
+  },
+  {
+    "uid": "D1_trials/task13",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 0
+  },
+  {
+    "uid": "D1_trials/task14",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 1
+  },
+  {
+    "uid": "D1_trials/task15",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 5
+  },
+  {
+    "uid": "D1_trials/task16",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 0
+  },
+  {
+    "uid": "D1_trials/task17",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 2
+  },
+  {
+    "uid": "D1_trials/task18",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 7
+  },
+  {
+    "uid": "D1_trials/task19",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 6
+  },
+  {
+    "uid": "D1_trials/task20",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 4
+  },
+  {
+    "uid": "D1_trials/task21",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 1
+  },
+  {
+    "uid": "D1_trials/task22",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 5
+  },
+  {
+    "uid": "D1_trials/task23",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 3
+  },
+  {
+    "uid": "D1_trials/task24",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 5
+  },
+  {
+    "uid": "D1_trials/task25",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 6
+  },
+  {
+    "uid": "D1_trials/task26",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 1
+  },
+  {
+    "uid": "D1_trials/task27",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 7
+  },
+  {
+    "uid": "D1_trials/task28",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 2
+  },
+  {
+    "uid": "D1_trials/task29",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 4
+  },
+  {
+    "uid": "D1_trials/task30",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 0
+  },
+  {
+    "uid": "D1_trials/task31",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 3
+  },
+  {
+    "uid": "D1_trials/task32",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 6
+  },
+  {
+    "uid": "D1_trials/task33",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 7
+  },
+  {
+    "uid": "D1_trials/task34",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 3
+  },
+  {
+    "uid": "D1_trials/task35",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 5
+  },
+  {
+    "uid": "D1_trials/task36",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 1
+  },
+  {
+    "uid": "D1_trials/task37",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 4
+  },
+  {
+    "uid": "D1_trials/task38",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 0
+  },
+  {
+    "uid": "D1_trials/task39",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 2
+  },
+  {
+    "uid": "D1_trials/task40",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 5
+  },
+  {
+    "uid": "D1_trials/task41",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 7
+  },
+  {
+    "uid": "D1_trials/task42",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 6
+  },
+  {
+    "uid": "D1_trials/task43",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 3
+  },
+  {
+    "uid": "D1_trials/task44",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 2
+  },
+  {
+    "uid": "D1_trials/task45",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 1
+  },
+  {
+    "uid": "D1_trials/task46",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 4
+  },
+  {
+    "uid": "D1_trials/task47",
+    "source": "competition",
+    "subject": "D1_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task0",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 7
+  },
+  {
+    "uid": "D2_trials/task1",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 1
+  },
+  {
+    "uid": "D2_trials/task2",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 2
+  },
+  {
+    "uid": "D2_trials/task3",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task4",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 3
+  },
+  {
+    "uid": "D2_trials/task5",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 6
+  },
+  {
+    "uid": "D2_trials/task6",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 5
+  },
+  {
+    "uid": "D2_trials/task7",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 4
+  },
+  {
+    "uid": "D2_trials/task8",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task9",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 3
+  },
+  {
+    "uid": "D2_trials/task10",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 2
+  },
+  {
+    "uid": "D2_trials/task11",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 4
+  },
+  {
+    "uid": "D2_trials/task12",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 5
+  },
+  {
+    "uid": "D2_trials/task13",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 6
+  },
+  {
+    "uid": "D2_trials/task14",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 1
+  },
+  {
+    "uid": "D2_trials/task15",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 7
+  },
+  {
+    "uid": "D2_trials/task16",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 6
+  },
+  {
+    "uid": "D2_trials/task17",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 2
+  },
+  {
+    "uid": "D2_trials/task18",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 4
+  },
+  {
+    "uid": "D2_trials/task19",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 5
+  },
+  {
+    "uid": "D2_trials/task20",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 1
+  },
+  {
+    "uid": "D2_trials/task21",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task22",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 7
+  },
+  {
+    "uid": "D2_trials/task23",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 3
+  },
+  {
+    "uid": "D2_trials/task24",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 3
+  },
+  {
+    "uid": "D2_trials/task25",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task26",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 5
+  },
+  {
+    "uid": "D2_trials/task27",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 4
+  },
+  {
+    "uid": "D2_trials/task28",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 2
+  },
+  {
+    "uid": "D2_trials/task29",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 7
+  },
+  {
+    "uid": "D2_trials/task30",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 1
+  },
+  {
+    "uid": "D2_trials/task31",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 6
+  },
+  {
+    "uid": "D2_trials/task32",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 3
+  },
+  {
+    "uid": "D2_trials/task33",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 4
+  },
+  {
+    "uid": "D2_trials/task34",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 2
+  },
+  {
+    "uid": "D2_trials/task35",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 1
+  },
+  {
+    "uid": "D2_trials/task36",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 7
+  },
+  {
+    "uid": "D2_trials/task37",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 6
+  },
+  {
+    "uid": "D2_trials/task38",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task39",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 5
+  },
+  {
+    "uid": "D2_trials/task40",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 7
+  },
+  {
+    "uid": "D2_trials/task41",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 5
+  },
+  {
+    "uid": "D2_trials/task42",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 3
+  },
+  {
+    "uid": "D2_trials/task43",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 4
+  },
+  {
+    "uid": "D2_trials/task44",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 0
+  },
+  {
+    "uid": "D2_trials/task45",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 2
+  },
+  {
+    "uid": "D2_trials/task46",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 1
+  },
+  {
+    "uid": "D2_trials/task47",
+    "source": "competition",
+    "subject": "D2_trials",
+    "label": 6
+  }
+]

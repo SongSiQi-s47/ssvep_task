@@ -1,0 +1,171 @@
+{
+  "sampling_rate_assumed_hz": 250,
+  "method": "periodogram averaged across PO3, POZ, PO4 and the six trials per class; diagnostic only",
+  "interpretation": "Most classes have peaks at proposed 8+stimID Hz; class 0 has a strong 16 Hz second harmonic. D2 class 1 has stronger off-target peaks, so this is supporting evidence rather than proof of mapping or classification performance.",
+  "results": {
+    "D1_trials.npz": [
+      {
+        "stimID": 0,
+        "provisional_frequency_hz": 8,
+        "top_three_average_posterior_channel_peaks_hz": [
+          16.0,
+          8.0,
+          11.0
+        ],
+        "average_power_at_expected_frequency": 5.726001008444949
+      },
+      {
+        "stimID": 1,
+        "provisional_frequency_hz": 9,
+        "top_three_average_posterior_channel_peaks_hz": [
+          9.0,
+          10.5,
+          11.0
+        ],
+        "average_power_at_expected_frequency": 6.769564856955452
+      },
+      {
+        "stimID": 2,
+        "provisional_frequency_hz": 10,
+        "top_three_average_posterior_channel_peaks_hz": [
+          10.0,
+          10.75,
+          9.25
+        ],
+        "average_power_at_expected_frequency": 10.298919087876147
+      },
+      {
+        "stimID": 3,
+        "provisional_frequency_hz": 11,
+        "top_three_average_posterior_channel_peaks_hz": [
+          11.0,
+          11.25,
+          11.75
+        ],
+        "average_power_at_expected_frequency": 5.833415764075676
+      },
+      {
+        "stimID": 4,
+        "provisional_frequency_hz": 12,
+        "top_three_average_posterior_channel_peaks_hz": [
+          12.0,
+          12.25,
+          11.25
+        ],
+        "average_power_at_expected_frequency": 6.928322175404485
+      },
+      {
+        "stimID": 5,
+        "provisional_frequency_hz": 13,
+        "top_three_average_posterior_channel_peaks_hz": [
+          13.0,
+          11.25,
+          11.5
+        ],
+        "average_power_at_expected_frequency": 4.982374683393723
+      },
+      {
+        "stimID": 6,
+        "provisional_frequency_hz": 14,
+        "top_three_average_posterior_channel_peaks_hz": [
+          14.0,
+          10.25,
+          10.5
+        ],
+        "average_power_at_expected_frequency": 4.482669250493076
+      },
+      {
+        "stimID": 7,
+        "provisional_frequency_hz": 15,
+        "top_three_average_posterior_channel_peaks_hz": [
+          15.0,
+          11.75,
+          11.5
+        ],
+        "average_power_at_expected_frequency": 9.513643594105153
+      }
+    ],
+    "D2_trials.npz": [
+      {
+        "stimID": 0,
+        "provisional_frequency_hz": 8,
+        "top_three_average_posterior_channel_peaks_hz": [
+          16.0,
+          8.0,
+          9.25
+        ],
+        "average_power_at_expected_frequency": 6.268410686372188
+      },
+      {
+        "stimID": 1,
+        "provisional_frequency_hz": 9,
+        "top_three_average_posterior_channel_peaks_hz": [
+          10.25,
+          7.75,
+          9.0
+        ],
+        "average_power_at_expected_frequency": 3.8752736788299638
+      },
+      {
+        "stimID": 2,
+        "provisional_frequency_hz": 10,
+        "top_three_average_posterior_channel_peaks_hz": [
+          10.0,
+          10.25,
+          9.25
+        ],
+        "average_power_at_expected_frequency": 7.118379829232061
+      },
+      {
+        "stimID": 3,
+        "provisional_frequency_hz": 11,
+        "top_three_average_posterior_channel_peaks_hz": [
+          11.0,
+          9.25,
+          10.25
+        ],
+        "average_power_at_expected_frequency": 7.150869385511651
+      },
+      {
+        "stimID": 4,
+        "provisional_frequency_hz": 12,
+        "top_three_average_posterior_channel_peaks_hz": [
+          12.0,
+          10.25,
+          10.0
+        ],
+        "average_power_at_expected_frequency": 7.681663253621492
+      },
+      {
+        "stimID": 5,
+        "provisional_frequency_hz": 13,
+        "top_three_average_posterior_channel_peaks_hz": [
+          13.0,
+          12.0,
+          9.25
+        ],
+        "average_power_at_expected_frequency": 9.244079600119207
+      },
+      {
+        "stimID": 6,
+        "provisional_frequency_hz": 14,
+        "top_three_average_posterior_channel_peaks_hz": [
+          14.0,
+          10.25,
+          10.5
+        ],
+        "average_power_at_expected_frequency": 7.9752964359401535
+      },
+      {
+        "stimID": 7,
+        "provisional_frequency_hz": 15,
+        "top_three_average_posterior_channel_peaks_hz": [
+          15.0,
+          9.75,
+          9.25
+        ],
+        "average_power_at_expected_frequency": 8.460826138505228
+      }
+    ]
+  }
+}

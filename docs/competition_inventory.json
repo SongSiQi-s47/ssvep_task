@@ -1,0 +1,840 @@
+{
+  "D1.csv": {
+    "rows": 48000,
+    "trial_shape": [
+      48,
+      6,
+      1000
+    ],
+    "class_counts": {
+      "0": 6,
+      "1": 6,
+      "2": 6,
+      "3": 6,
+      "4": 6,
+      "5": 6,
+      "6": 6,
+      "7": 6
+    },
+    "sha256": "70262083b3b641c34ada69412a36eb9b415dbe6433f49185cbf1c5e1bbb1fdce",
+    "finite": true,
+    "sampling_rate_hz": 250,
+    "frequency_mapping_hz": {
+      "0": 8,
+      "1": 9,
+      "2": 10,
+      "3": 11,
+      "4": 12,
+      "5": 13,
+      "6": 14,
+      "7": 15
+    },
+    "units": null,
+    "subject_identity": "unconfirmed",
+    "segments": [
+      {
+        "source_file": "D1.csv",
+        "taskID": 0,
+        "stimID": 1,
+        "start_row_0based": 0,
+        "end_row_exclusive": 1000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 1,
+        "stimID": 6,
+        "start_row_0based": 1000,
+        "end_row_exclusive": 2000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 2,
+        "stimID": 4,
+        "start_row_0based": 2000,
+        "end_row_exclusive": 3000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 3,
+        "stimID": 5,
+        "start_row_0based": 3000,
+        "end_row_exclusive": 4000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 4,
+        "stimID": 3,
+        "start_row_0based": 4000,
+        "end_row_exclusive": 5000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 5,
+        "stimID": 7,
+        "start_row_0based": 5000,
+        "end_row_exclusive": 6000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 6,
+        "stimID": 2,
+        "start_row_0based": 6000,
+        "end_row_exclusive": 7000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 7,
+        "stimID": 0,
+        "start_row_0based": 7000,
+        "end_row_exclusive": 8000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 8,
+        "stimID": 4,
+        "start_row_0based": 8000,
+        "end_row_exclusive": 9000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 9,
+        "stimID": 7,
+        "start_row_0based": 9000,
+        "end_row_exclusive": 10000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 10,
+        "stimID": 2,
+        "start_row_0based": 10000,
+        "end_row_exclusive": 11000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 11,
+        "stimID": 6,
+        "start_row_0based": 11000,
+        "end_row_exclusive": 12000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 12,
+        "stimID": 3,
+        "start_row_0based": 12000,
+        "end_row_exclusive": 13000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 13,
+        "stimID": 0,
+        "start_row_0based": 13000,
+        "end_row_exclusive": 14000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 14,
+        "stimID": 1,
+        "start_row_0based": 14000,
+        "end_row_exclusive": 15000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 15,
+        "stimID": 5,
+        "start_row_0based": 15000,
+        "end_row_exclusive": 16000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 16,
+        "stimID": 0,
+        "start_row_0based": 16000,
+        "end_row_exclusive": 17000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 17,
+        "stimID": 2,
+        "start_row_0based": 17000,
+        "end_row_exclusive": 18000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 18,
+        "stimID": 7,
+        "start_row_0based": 18000,
+        "end_row_exclusive": 19000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 19,
+        "stimID": 6,
+        "start_row_0based": 19000,
+        "end_row_exclusive": 20000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 20,
+        "stimID": 4,
+        "start_row_0based": 20000,
+        "end_row_exclusive": 21000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 21,
+        "stimID": 1,
+        "start_row_0based": 21000,
+        "end_row_exclusive": 22000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 22,
+        "stimID": 5,
+        "start_row_0based": 22000,
+        "end_row_exclusive": 23000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 23,
+        "stimID": 3,
+        "start_row_0based": 23000,
+        "end_row_exclusive": 24000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 24,
+        "stimID": 5,
+        "start_row_0based": 24000,
+        "end_row_exclusive": 25000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 25,
+        "stimID": 6,
+        "start_row_0based": 25000,
+        "end_row_exclusive": 26000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 26,
+        "stimID": 1,
+        "start_row_0based": 26000,
+        "end_row_exclusive": 27000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 27,
+        "stimID": 7,
+        "start_row_0based": 27000,
+        "end_row_exclusive": 28000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 28,
+        "stimID": 2,
+        "start_row_0based": 28000,
+        "end_row_exclusive": 29000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 29,
+        "stimID": 4,
+        "start_row_0based": 29000,
+        "end_row_exclusive": 30000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 30,
+        "stimID": 0,
+        "start_row_0based": 30000,
+        "end_row_exclusive": 31000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 31,
+        "stimID": 3,
+        "start_row_0based": 31000,
+        "end_row_exclusive": 32000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 32,
+        "stimID": 6,
+        "start_row_0based": 32000,
+        "end_row_exclusive": 33000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 33,
+        "stimID": 7,
+        "start_row_0based": 33000,
+        "end_row_exclusive": 34000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 34,
+        "stimID": 3,
+        "start_row_0based": 34000,
+        "end_row_exclusive": 35000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 35,
+        "stimID": 5,
+        "start_row_0based": 35000,
+        "end_row_exclusive": 36000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 36,
+        "stimID": 1,
+        "start_row_0based": 36000,
+        "end_row_exclusive": 37000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 37,
+        "stimID": 4,
+        "start_row_0based": 37000,
+        "end_row_exclusive": 38000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 38,
+        "stimID": 0,
+        "start_row_0based": 38000,
+        "end_row_exclusive": 39000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 39,
+        "stimID": 2,
+        "start_row_0based": 39000,
+        "end_row_exclusive": 40000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 40,
+        "stimID": 5,
+        "start_row_0based": 40000,
+        "end_row_exclusive": 41000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 41,
+        "stimID": 7,
+        "start_row_0based": 41000,
+        "end_row_exclusive": 42000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 42,
+        "stimID": 6,
+        "start_row_0based": 42000,
+        "end_row_exclusive": 43000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 43,
+        "stimID": 3,
+        "start_row_0based": 43000,
+        "end_row_exclusive": 44000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 44,
+        "stimID": 2,
+        "start_row_0based": 44000,
+        "end_row_exclusive": 45000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 45,
+        "stimID": 1,
+        "start_row_0based": 45000,
+        "end_row_exclusive": 46000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 46,
+        "stimID": 4,
+        "start_row_0based": 46000,
+        "end_row_exclusive": 47000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D1.csv",
+        "taskID": 47,
+        "stimID": 0,
+        "start_row_0based": 47000,
+        "end_row_exclusive": 48000,
+        "samples": 1000
+      }
+    ]
+  },
+  "D2.csv": {
+    "rows": 48000,
+    "trial_shape": [
+      48,
+      6,
+      1000
+    ],
+    "class_counts": {
+      "0": 6,
+      "1": 6,
+      "2": 6,
+      "3": 6,
+      "4": 6,
+      "5": 6,
+      "6": 6,
+      "7": 6
+    },
+    "sha256": "78bbd33864eb6f9123e72afac16d1f9ae369a15e9ec0ebaf35174e48552dfdbd",
+    "finite": true,
+    "sampling_rate_hz": 250,
+    "frequency_mapping_hz": {
+      "0": 8,
+      "1": 9,
+      "2": 10,
+      "3": 11,
+      "4": 12,
+      "5": 13,
+      "6": 14,
+      "7": 15
+    },
+    "units": null,
+    "subject_identity": "unconfirmed",
+    "segments": [
+      {
+        "source_file": "D2.csv",
+        "taskID": 0,
+        "stimID": 7,
+        "start_row_0based": 0,
+        "end_row_exclusive": 1000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 1,
+        "stimID": 1,
+        "start_row_0based": 1000,
+        "end_row_exclusive": 2000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 2,
+        "stimID": 2,
+        "start_row_0based": 2000,
+        "end_row_exclusive": 3000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 3,
+        "stimID": 0,
+        "start_row_0based": 3000,
+        "end_row_exclusive": 4000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 4,
+        "stimID": 3,
+        "start_row_0based": 4000,
+        "end_row_exclusive": 5000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 5,
+        "stimID": 6,
+        "start_row_0based": 5000,
+        "end_row_exclusive": 6000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 6,
+        "stimID": 5,
+        "start_row_0based": 6000,
+        "end_row_exclusive": 7000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 7,
+        "stimID": 4,
+        "start_row_0based": 7000,
+        "end_row_exclusive": 8000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 8,
+        "stimID": 0,
+        "start_row_0based": 8000,
+        "end_row_exclusive": 9000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 9,
+        "stimID": 3,
+        "start_row_0based": 9000,
+        "end_row_exclusive": 10000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 10,
+        "stimID": 2,
+        "start_row_0based": 10000,
+        "end_row_exclusive": 11000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 11,
+        "stimID": 4,
+        "start_row_0based": 11000,
+        "end_row_exclusive": 12000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 12,
+        "stimID": 5,
+        "start_row_0based": 12000,
+        "end_row_exclusive": 13000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 13,
+        "stimID": 6,
+        "start_row_0based": 13000,
+        "end_row_exclusive": 14000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 14,
+        "stimID": 1,
+        "start_row_0based": 14000,
+        "end_row_exclusive": 15000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 15,
+        "stimID": 7,
+        "start_row_0based": 15000,
+        "end_row_exclusive": 16000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 16,
+        "stimID": 6,
+        "start_row_0based": 16000,
+        "end_row_exclusive": 17000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 17,
+        "stimID": 2,
+        "start_row_0based": 17000,
+        "end_row_exclusive": 18000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 18,
+        "stimID": 4,
+        "start_row_0based": 18000,
+        "end_row_exclusive": 19000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 19,
+        "stimID": 5,
+        "start_row_0based": 19000,
+        "end_row_exclusive": 20000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 20,
+        "stimID": 1,
+        "start_row_0based": 20000,
+        "end_row_exclusive": 21000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 21,
+        "stimID": 0,
+        "start_row_0based": 21000,
+        "end_row_exclusive": 22000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 22,
+        "stimID": 7,
+        "start_row_0based": 22000,
+        "end_row_exclusive": 23000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 23,
+        "stimID": 3,
+        "start_row_0based": 23000,
+        "end_row_exclusive": 24000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 24,
+        "stimID": 3,
+        "start_row_0based": 24000,
+        "end_row_exclusive": 25000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 25,
+        "stimID": 0,
+        "start_row_0based": 25000,
+        "end_row_exclusive": 26000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 26,
+        "stimID": 5,
+        "start_row_0based": 26000,
+        "end_row_exclusive": 27000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 27,
+        "stimID": 4,
+        "start_row_0based": 27000,
+        "end_row_exclusive": 28000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 28,
+        "stimID": 2,
+        "start_row_0based": 28000,
+        "end_row_exclusive": 29000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 29,
+        "stimID": 7,
+        "start_row_0based": 29000,
+        "end_row_exclusive": 30000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 30,
+        "stimID": 1,
+        "start_row_0based": 30000,
+        "end_row_exclusive": 31000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 31,
+        "stimID": 6,
+        "start_row_0based": 31000,
+        "end_row_exclusive": 32000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 32,
+        "stimID": 3,
+        "start_row_0based": 32000,
+        "end_row_exclusive": 33000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 33,
+        "stimID": 4,
+        "start_row_0based": 33000,
+        "end_row_exclusive": 34000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 34,
+        "stimID": 2,
+        "start_row_0based": 34000,
+        "end_row_exclusive": 35000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 35,
+        "stimID": 1,
+        "start_row_0based": 35000,
+        "end_row_exclusive": 36000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 36,
+        "stimID": 7,
+        "start_row_0based": 36000,
+        "end_row_exclusive": 37000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 37,
+        "stimID": 6,
+        "start_row_0based": 37000,
+        "end_row_exclusive": 38000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 38,
+        "stimID": 0,
+        "start_row_0based": 38000,
+        "end_row_exclusive": 39000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 39,
+        "stimID": 5,
+        "start_row_0based": 39000,
+        "end_row_exclusive": 40000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 40,
+        "stimID": 7,
+        "start_row_0based": 40000,
+        "end_row_exclusive": 41000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 41,
+        "stimID": 5,
+        "start_row_0based": 41000,
+        "end_row_exclusive": 42000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 42,
+        "stimID": 3,
+        "start_row_0based": 42000,
+        "end_row_exclusive": 43000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 43,
+        "stimID": 4,
+        "start_row_0based": 43000,
+        "end_row_exclusive": 44000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 44,
+        "stimID": 0,
+        "start_row_0based": 44000,
+        "end_row_exclusive": 45000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 45,
+        "stimID": 2,
+        "start_row_0based": 45000,
+        "end_row_exclusive": 46000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 46,
+        "stimID": 1,
+        "start_row_0based": 46000,
+        "end_row_exclusive": 47000,
+        "samples": 1000
+      },
+      {
+        "source_file": "D2.csv",
+        "taskID": 47,
+        "stimID": 6,
+        "start_row_0based": 47000,
+        "end_row_exclusive": 48000,
+        "samples": 1000
+      }
+    ]
+  }
+}

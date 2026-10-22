@@ -1,0 +1,23 @@
+{
+  "updated_date": "2026-10-15",
+  "request": "Current dataset is validation-only; scope clarification pending",
+  "scope_confirmed": false,
+  "evaluation_only_sources": [
+    "competition",
+    "beta",
+    "nakanishi2015"
+  ],
+  "training_sources": [
+    "benchmark"
+  ],
+  "calibration_sources": [],
+  "legacy_runs": "Exploratory history; do not reuse trained weights for a new validation-only experiment",
+  "prohibited_usage": [
+    "gradient updates",
+    "distillation inputs",
+    "pseudo labels",
+    "support-set calibration",
+    "normalization fitted across evaluation records"
+  ],
+  "evaluation_rule": "Freeze parameters on independent development data before evaluating reserved current datasets"
+}

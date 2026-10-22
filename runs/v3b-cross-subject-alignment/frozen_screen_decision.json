@@ -1,0 +1,15 @@
+{
+  "candidates": {
+    "cross_subject_contrastive": {
+      "paired_gains_percentage_points": [
+        3.125,
+        -2.0833333333333313
+      ],
+      "mean_gain_percentage_points": 0.5208333333333344,
+      "eligible": false
+    }
+  },
+  "chosen": null,
+  "confirmation_subjects_not_yet_opened": true,
+  "parameter_search_complete": true
+}

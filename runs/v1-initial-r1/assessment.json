@@ -1,0 +1,9 @@
+{
+  "teacher_stronger_on_validation": false,
+  "distillation_gain_on_validation": -0.05078125,
+  "single_seed_exploratory": true,
+  "competition_protocol": "held-out file, subject relationship unknown",
+  "window_seconds": 1.0,
+  "offline_zero_phase_filter": true,
+  "note": "Test results describe this run; do not choose deployment model or tuning parameters from these test results."
+}

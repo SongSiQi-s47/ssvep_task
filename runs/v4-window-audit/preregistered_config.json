@@ -1,0 +1,22 @@
+{
+  "subjects": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "samples": [
+    250,
+    375
+  ],
+  "fs": 250,
+  "latency_seconds": 0.14,
+  "start": 0,
+  "algorithm": "unchanged FBCCA",
+  "selection": "Highest bounded-window macro subject accuracy; tie selects 250",
+  "old_scope": "diagnostic only, never eligible for selection",
+  "mode": "offline within observed window, not streaming",
+  "confirmation_subjects_read": false,
+  "holdout_read": false,
+  "competition_read": false,
+  "hardware": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel"
+}

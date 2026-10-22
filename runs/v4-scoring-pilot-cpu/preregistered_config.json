@@ -1,0 +1,36 @@
+{
+  "train": [
+    "S2",
+    "S5",
+    "S10",
+    "S15",
+    "S18",
+    "S25"
+  ],
+  "dev": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "seeds": [
+    2026,
+    2027
+  ],
+  "samples": 375,
+  "stride": 125,
+  "epochs": 50,
+  "samples_per_epoch": 768,
+  "batch": 64,
+  "lr": 0.001,
+  "weight_decay": 0.001,
+  "augmentation": "none for either fitted arm",
+  "normalization": "feature dimension pooled across train windows and candidate classes only",
+  "selection": "earliest maximum dev macro accuracy",
+  "gate": "scorer minus max(FBCCA, same-seed EEGNet): both >=0pp and mean >=3pp",
+  "device_for_fit": "CPU; CUDA attempt failed before first optimizer update",
+  "latency": "CPU batch1, 1 numerical thread, interleaved 3 passes after warmup",
+  "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "confirmation_read": false,
+  "holdout_read": false,
+  "D1_D2_read": false
+}

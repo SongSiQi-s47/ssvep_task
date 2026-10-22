@@ -1,0 +1,32 @@
+{
+  "train": [
+    "S10.mat",
+    "S11.mat",
+    "S15.mat",
+    "S16.mat",
+    "S17.mat",
+    "S18.mat",
+    "S2.mat",
+    "S21.mat",
+    "S24.mat",
+    "S25.mat",
+    "S4.mat",
+    "S5.mat",
+    "S7.mat",
+    "S9.mat"
+  ],
+  "dev": [
+    "S13.mat",
+    "S20.mat",
+    "S23.mat",
+    "S51.mat",
+    "S6.mat"
+  ],
+  "holdout": [
+    "S1.mat",
+    "S22.mat",
+    "S26.mat",
+    "S3.mat",
+    "S8.mat"
+  ]
+}

@@ -1,0 +1,1 @@
+{"complete":false,"failure":"CUDNN_STATUS_NOT_INITIALIZED before first optimizer update","superseded_by":"v4-scoring-pilot-cpu","usable_results":false}

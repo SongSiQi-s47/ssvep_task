@@ -1,0 +1,49 @@
+{
+  "base_run": "v2-beta-subject-isolated",
+  "screen_seeds": [
+    2026,
+    2027
+  ],
+  "confirmation_seed": 2028,
+  "training_subjects": [
+    "S2",
+    "S5",
+    "S10",
+    "S15",
+    "S18",
+    "S25"
+  ],
+  "screen_development_subjects": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "confirmation_development_subjects": [
+    "S13",
+    "S23"
+  ],
+  "window_samples": 250,
+  "enumerated_stride_samples": 125,
+  "epochs": 50,
+  "samples_per_epoch": 768,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "minimum_learning_rate": 1e-05,
+  "weight_decay": 0.001,
+  "cpu_threads": 4,
+  "augmentation_gain_log_std": 0.15,
+  "arms": [
+    "enumerated",
+    "long_to_short_curriculum"
+  ],
+  "curriculum_warmup_window_samples": 375,
+  "curriculum_warmup_epochs": 25,
+  "screen_minimum_gain_percentage_points": 3.0,
+  "screen_require_both_seeds_nonnegative": true,
+  "confirmation_minimum_gain_percentage_points": 2.0,
+  "confirmation_maximum_single_subject_drop_percentage_points": 3.125,
+  "evaluation_policy": "Always evaluate 250 samples; no D1/D2 and no BETA holdout accessed",
+  "checkpoint_selection": "Both arms 50 epochs, 600 updates; best screening development accuracy",
+  "hypothesis": "First 25 epochs use 1.5 seconds, final 25 use 1 second; fixed trial sampling mass and unchanged model/optimizer",
+  "bounded_scope": "Final pilot hypothesis in this stage; do not add a grid search after inspecting results"
+}

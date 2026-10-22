@@ -1,0 +1,962 @@
+[
+  {
+    "epoch": 1,
+    "loss": 2.076763153076172,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.13541666666666666,
+      "accuracy": 0.13541666666666666,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.15625,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 132,
+      "S15": 130,
+      "S18": 130,
+      "S2": 141,
+      "S25": 106,
+      "S5": 129
+    }
+  },
+  {
+    "epoch": 2,
+    "loss": 2.0642263293266296,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.19791666666666666,
+      "accuracy": 0.19791666666666666,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.21875,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.25,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 125,
+      "S15": 129,
+      "S18": 144,
+      "S2": 125,
+      "S25": 122,
+      "S5": 123
+    }
+  },
+  {
+    "epoch": 3,
+    "loss": 2.052074392636617,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.22916666666666666,
+      "accuracy": 0.22916666666666666,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.28125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.3125,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 123,
+      "S15": 137,
+      "S18": 128,
+      "S2": 122,
+      "S25": 143,
+      "S5": 115
+    }
+  },
+  {
+    "epoch": 4,
+    "loss": 2.030772944291433,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.20833333333333334,
+      "accuracy": 0.20833333333333334,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.21875,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.28125,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 124,
+      "S15": 135,
+      "S18": 128,
+      "S2": 110,
+      "S25": 145,
+      "S5": 126
+    }
+  },
+  {
+    "epoch": 5,
+    "loss": 2.0252829988797507,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.2604166666666667,
+      "accuracy": 0.2604166666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.34375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.34375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 145,
+      "S15": 112,
+      "S18": 129,
+      "S2": 132,
+      "S25": 125,
+      "S5": 125
+    }
+  },
+  {
+    "epoch": 6,
+    "loss": 1.9982742567857106,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.21875,
+      "accuracy": 0.21875,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.34375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.1875,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 113,
+      "S15": 138,
+      "S18": 139,
+      "S2": 130,
+      "S25": 136,
+      "S5": 112
+    }
+  },
+  {
+    "epoch": 7,
+    "loss": 1.9806000192960103,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.20833333333333334,
+      "accuracy": 0.20833333333333334,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.0625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.34375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.21875,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 113,
+      "S15": 123,
+      "S18": 133,
+      "S2": 145,
+      "S25": 116,
+      "S5": 138
+    }
+  },
+  {
+    "epoch": 8,
+    "loss": 1.953039824962616,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.28125,
+      "accuracy": 0.28125,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 137,
+      "S15": 111,
+      "S18": 117,
+      "S2": 128,
+      "S25": 134,
+      "S5": 141
+    }
+  },
+  {
+    "epoch": 9,
+    "loss": 1.921360820531845,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.28125,
+      "accuracy": 0.28125,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.40625,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.34375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 132,
+      "S15": 123,
+      "S18": 128,
+      "S2": 136,
+      "S25": 125,
+      "S5": 124
+    }
+  },
+  {
+    "epoch": 10,
+    "loss": 1.8714156051476796,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.2604166666666667,
+      "accuracy": 0.2604166666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.3125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.34375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 128,
+      "S15": 131,
+      "S18": 129,
+      "S2": 127,
+      "S25": 124,
+      "S5": 129
+    }
+  },
+  {
+    "epoch": 11,
+    "loss": 1.81511652469635,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.28125,
+      "accuracy": 0.28125,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.15625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.34375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.34375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 130,
+      "S15": 128,
+      "S18": 132,
+      "S2": 131,
+      "S25": 119,
+      "S5": 128
+    }
+  },
+  {
+    "epoch": 12,
+    "loss": 1.7598511477311451,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.2916666666666667,
+      "accuracy": 0.2916666666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.34375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.40625,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 143,
+      "S15": 132,
+      "S18": 121,
+      "S2": 128,
+      "S25": 140,
+      "S5": 104
+    }
+  },
+  {
+    "epoch": 13,
+    "loss": 1.6907331049442291,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3229166666666667,
+      "accuracy": 0.3229166666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.1875,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.4375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.34375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 129,
+      "S15": 131,
+      "S18": 133,
+      "S2": 126,
+      "S25": 138,
+      "S5": 111
+    }
+  },
+  {
+    "epoch": 14,
+    "loss": 1.7016995251178741,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.2708333333333333,
+      "accuracy": 0.2708333333333333,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.15625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.28125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 130,
+      "S15": 119,
+      "S18": 120,
+      "S2": 137,
+      "S25": 125,
+      "S5": 137
+    }
+  },
+  {
+    "epoch": 15,
+    "loss": 1.5512890021006267,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3541666666666667,
+      "accuracy": 0.3541666666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.5,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.4375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 123,
+      "S15": 125,
+      "S18": 149,
+      "S2": 113,
+      "S25": 139,
+      "S5": 119
+    }
+  },
+  {
+    "epoch": 16,
+    "loss": 1.5493805309136708,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.375,
+      "accuracy": 0.375,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.59375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.4375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 122,
+      "S15": 136,
+      "S18": 136,
+      "S2": 139,
+      "S25": 116,
+      "S5": 119
+    }
+  },
+  {
+    "epoch": 17,
+    "loss": 1.554779628912608,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3854166666666667,
+      "accuracy": 0.3854166666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.21875,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.46875,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.46875,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 106,
+      "S15": 138,
+      "S18": 122,
+      "S2": 141,
+      "S25": 130,
+      "S5": 131
+    }
+  },
+  {
+    "epoch": 18,
+    "loss": 1.4956469734509785,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3958333333333333,
+      "accuracy": 0.3958333333333333,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.21875,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.46875,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.5,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 120,
+      "S15": 121,
+      "S18": 138,
+      "S2": 129,
+      "S25": 125,
+      "S5": 135
+    }
+  },
+  {
+    "epoch": 19,
+    "loss": 1.4147799015045166,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3541666666666667,
+      "accuracy": 0.3541666666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.53125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.4375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 131,
+      "S15": 119,
+      "S18": 118,
+      "S2": 129,
+      "S25": 134,
+      "S5": 137
+    }
+  },
+  {
+    "epoch": 20,
+    "loss": 1.367067684729894,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3333333333333333,
+      "accuracy": 0.3333333333333333,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.4375,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.46875,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 125,
+      "S15": 123,
+      "S18": 149,
+      "S2": 119,
+      "S25": 134,
+      "S5": 118
+    }
+  },
+  {
+    "epoch": 21,
+    "loss": 1.381568084160487,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.34375,
+      "accuracy": 0.34375,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.53125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.40625,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 131,
+      "S15": 129,
+      "S18": 131,
+      "S2": 130,
+      "S25": 129,
+      "S5": 118
+    }
+  },
+  {
+    "epoch": 22,
+    "loss": 1.2930879592895508,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.34375,
+      "accuracy": 0.34375,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.0625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.53125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.4375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 130,
+      "S15": 125,
+      "S18": 132,
+      "S2": 131,
+      "S25": 119,
+      "S5": 131
+    }
+  },
+  {
+    "epoch": 23,
+    "loss": 1.3758709132671356,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.34375,
+      "accuracy": 0.34375,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.0625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.53125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.4375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 129,
+      "S15": 124,
+      "S18": 120,
+      "S2": 137,
+      "S25": 133,
+      "S5": 125
+    }
+  },
+  {
+    "epoch": 24,
+    "loss": 1.2406316896279652,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3645833333333333,
+      "accuracy": 0.3645833333333333,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.5,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.5,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 127,
+      "S15": 127,
+      "S18": 120,
+      "S2": 137,
+      "S25": 130,
+      "S5": 127
+    }
+  },
+  {
+    "epoch": 25,
+    "loss": 1.252079466978709,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3333333333333333,
+      "accuracy": 0.3333333333333333,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.0625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.46875,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.46875,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 131,
+      "S15": 139,
+      "S18": 130,
+      "S2": 120,
+      "S25": 124,
+      "S5": 124
+    }
+  },
+  {
+    "epoch": 26,
+    "loss": 1.2099710702896118,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.34375,
+      "accuracy": 0.34375,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.0625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.46875,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.5,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 106,
+      "S15": 146,
+      "S18": 136,
+      "S2": 137,
+      "S25": 129,
+      "S5": 114
+    }
+  },
+  {
+    "epoch": 27,
+    "loss": 1.2178343832492828,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.34375,
+      "accuracy": 0.34375,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.09375,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.5,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.4375,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 137,
+      "S15": 118,
+      "S18": 113,
+      "S2": 138,
+      "S25": 129,
+      "S5": 133
+    }
+  },
+  {
+    "epoch": 28,
+    "loss": 1.163893808921178,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3958333333333333,
+      "accuracy": 0.3958333333333333,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.53125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.53125,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 116,
+      "S15": 140,
+      "S18": 117,
+      "S2": 147,
+      "S25": 125,
+      "S5": 123
+    }
+  },
+  {
+    "epoch": 29,
+    "loss": 1.1761754254500072,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.3854166666666667,
+      "accuracy": 0.3854166666666667,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.125,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.53125,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.5,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 120,
+      "S15": 143,
+      "S18": 131,
+      "S2": 123,
+      "S25": 120,
+      "S5": 131
+    }
+  },
+  {
+    "epoch": 30,
+    "loss": 1.1510314395030339,
+    "learning_rate": 0.001,
+    "screen_development": {
+      "macro_subject_accuracy": 0.40625,
+      "accuracy": 0.40625,
+      "subjects": {
+        "S20": {
+          "accuracy": 0.15625,
+          "trials": 32
+        },
+        "S51": {
+          "accuracy": 0.5625,
+          "trials": 32
+        },
+        "S6": {
+          "accuracy": 0.5,
+          "trials": 32
+        }
+      },
+      "trials": 96
+    },
+    "samples_by_subject": {
+      "S10": 133,
+      "S15": 122,
+      "S18": 116,
+      "S2": 130,
+      "S25": 136,
+      "S5": 131
+    }
+  }
+]

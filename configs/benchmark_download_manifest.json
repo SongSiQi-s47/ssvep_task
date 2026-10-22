@@ -1,0 +1,65 @@
+[
+  {
+    "dataset": "benchmark",
+    "name": "64-channels.loc",
+    "url": "https://zenodo.org/api/records/14865172/files/64-channels.loc/content",
+    "size": 1982,
+    "md5": "21cae78341d49df7b2239b2229c842fd"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "Readme.txt",
+    "url": "https://zenodo.org/api/records/14865172/files/Readme.txt/content",
+    "size": 2976,
+    "md5": "541f7945746131110464f2cc2518e635"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "Sub_info.txt",
+    "url": "https://zenodo.org/api/records/14865172/files/Sub_info.txt/content",
+    "size": 2763,
+    "md5": "14e180db4a34252fcb32622e48b02277"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "S1.mat",
+    "url": "https://zenodo.org/api/records/14865172/files/S1.mat/content",
+    "size": 105899195,
+    "md5": "281fc8e77da9f1957823624c85b40feb"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "S14.mat",
+    "url": "https://zenodo.org/api/records/14865172/files/S14.mat/content",
+    "size": 106022074,
+    "md5": "e8733da6dae847d94224bb4ac0fd6484"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "S21.mat",
+    "url": "https://zenodo.org/api/records/14865172/files/S21.mat/content",
+    "size": 105678857,
+    "md5": "06d7657e4371650b19ff231a566f9c05"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "S28.mat",
+    "url": "https://zenodo.org/api/records/14865172/files/S28.mat/content",
+    "size": 106205209,
+    "md5": "909c2e5945b6f367a91a098f15874742"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "S35.mat",
+    "url": "https://zenodo.org/api/records/14865172/files/S35.mat/content",
+    "size": 106284794,
+    "md5": "c80b7c72abad0e17ab8eab27d549e316"
+  },
+  {
+    "dataset": "benchmark",
+    "name": "S7.mat",
+    "url": "https://zenodo.org/api/records/14865172/files/S7.mat/content",
+    "size": 105335697,
+    "md5": "fe63a5523576f76e5b5b3e7108cad720"
+  }
+]

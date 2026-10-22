@@ -1,0 +1,561 @@
+[
+  {
+    "dataset": "beta",
+    "name": "Description.pdf",
+    "size": 76053,
+    "md5": "7b5d166b9f0882f15a19bf880aaa0c62",
+    "url": "https://ndownloader.figshare.com/files/35903012"
+  },
+  {
+    "dataset": "beta",
+    "name": "note.txt",
+    "size": 62,
+    "md5": "fb91259d449c8f7d6c8a4b2a2f00fc37",
+    "url": "https://ndownloader.figshare.com/files/22618172"
+  },
+  {
+    "dataset": "beta",
+    "name": "S1.mat",
+    "size": 59743079,
+    "md5": "c17e4ff1ce0cf5d01a9873d0f404fc56",
+    "url": "https://ndownloader.figshare.com/files/22620932"
+  },
+  {
+    "dataset": "beta",
+    "name": "S2.mat",
+    "size": 59741522,
+    "md5": "087c9f4f11c4f86269424c76bd734a15",
+    "url": "https://ndownloader.figshare.com/files/22620938"
+  },
+  {
+    "dataset": "beta",
+    "name": "S3.mat",
+    "size": 59754602,
+    "md5": "ec997016f7a75fa72ad46edc241c47bb",
+    "url": "https://ndownloader.figshare.com/files/22620944"
+  },
+  {
+    "dataset": "beta",
+    "name": "S4.mat",
+    "size": 59719933,
+    "md5": "c559e4199ff460c96a012c33711de9d4",
+    "url": "https://ndownloader.figshare.com/files/22620947"
+  },
+  {
+    "dataset": "beta",
+    "name": "S5.mat",
+    "size": 59720929,
+    "md5": "01636214d8abeaed5a141cbaf0c10bc1",
+    "url": "https://ndownloader.figshare.com/files/22620950"
+  },
+  {
+    "dataset": "beta",
+    "name": "S6.mat",
+    "size": 59785756,
+    "md5": "061cd64c64fd0274150f0f59ec6dbc90",
+    "url": "https://ndownloader.figshare.com/files/22620956"
+  },
+  {
+    "dataset": "beta",
+    "name": "S7.mat",
+    "size": 59714452,
+    "md5": "d159f358c634ac5a2ad9fc6c397032bc",
+    "url": "https://ndownloader.figshare.com/files/22621247"
+  },
+  {
+    "dataset": "beta",
+    "name": "S8.mat",
+    "size": 59766587,
+    "md5": "079c695536cfcdfe11d9c36ec9dbb753",
+    "url": "https://ndownloader.figshare.com/files/22618196"
+  },
+  {
+    "dataset": "beta",
+    "name": "S9.mat",
+    "size": 59771767,
+    "md5": "17d7df0f47db029047dc4774a8c692b3",
+    "url": "https://ndownloader.figshare.com/files/22620971"
+  },
+  {
+    "dataset": "beta",
+    "name": "S10.mat",
+    "size": 59701896,
+    "md5": "233b77b687fa5134eef3aead4c1b3bbe",
+    "url": "https://ndownloader.figshare.com/files/22620983"
+  },
+  {
+    "dataset": "beta",
+    "name": "S11.mat",
+    "size": 59745101,
+    "md5": "2225db40355be8566a7101164c4ed528",
+    "url": "https://ndownloader.figshare.com/files/22620986"
+  },
+  {
+    "dataset": "beta",
+    "name": "S12.mat",
+    "size": 59764321,
+    "md5": "b7374e0aa1d3b143fc7cb9afede5afd9",
+    "url": "https://ndownloader.figshare.com/files/22620989"
+  },
+  {
+    "dataset": "beta",
+    "name": "S13.mat",
+    "size": 59721952,
+    "md5": "5a1b2ac6a19983f077f917a1dfb03c90",
+    "url": "https://ndownloader.figshare.com/files/22620992"
+  },
+  {
+    "dataset": "beta",
+    "name": "S14.mat",
+    "size": 59768197,
+    "md5": "32635bbc305ed6889435486b9356ba90",
+    "url": "https://ndownloader.figshare.com/files/22620995"
+  },
+  {
+    "dataset": "beta",
+    "name": "S15.mat",
+    "size": 59771879,
+    "md5": "9b0638f35bb2832482210ccbf3685d13",
+    "url": "https://ndownloader.figshare.com/files/22620998"
+  },
+  {
+    "dataset": "beta",
+    "name": "S16.mat",
+    "size": 79705153,
+    "md5": "18486fbd39c075b92f1b37985060b75b",
+    "url": "https://ndownloader.figshare.com/files/22621004"
+  },
+  {
+    "dataset": "beta",
+    "name": "S17.mat",
+    "size": 79584353,
+    "md5": "822e6e4fb6dfbc2158f591c99ad979f6",
+    "url": "https://ndownloader.figshare.com/files/22618223"
+  },
+  {
+    "dataset": "beta",
+    "name": "S18.mat",
+    "size": 79686976,
+    "md5": "ce63451bd6e80de7b6e4c04aa7340e2f",
+    "url": "https://ndownloader.figshare.com/files/22621190"
+  },
+  {
+    "dataset": "beta",
+    "name": "S19.mat",
+    "size": 79696929,
+    "md5": "8e714529443838e44d93723a6d50e5b0",
+    "url": "https://ndownloader.figshare.com/files/22618229"
+  },
+  {
+    "dataset": "beta",
+    "name": "S20.mat",
+    "size": 79503617,
+    "md5": "3470f49c6b4d0168aa133e429d60ee28",
+    "url": "https://ndownloader.figshare.com/files/22618232"
+  },
+  {
+    "dataset": "beta",
+    "name": "S21.mat",
+    "size": 79683031,
+    "md5": "d5beb6dcd232c4db33e9da54f3c1b8a2",
+    "url": "https://ndownloader.figshare.com/files/22618235"
+  },
+  {
+    "dataset": "beta",
+    "name": "S22.mat",
+    "size": 79593133,
+    "md5": "b017e63f7f6bb292febae4c581c8f509",
+    "url": "https://ndownloader.figshare.com/files/22618238"
+  },
+  {
+    "dataset": "beta",
+    "name": "S23.mat",
+    "size": 79670781,
+    "md5": "976b1c3bceb30aacbc0e541a2393a532",
+    "url": "https://ndownloader.figshare.com/files/22620974"
+  },
+  {
+    "dataset": "beta",
+    "name": "S24.mat",
+    "size": 79568952,
+    "md5": "86e4e16151b50d366b887f268132ffef",
+    "url": "https://ndownloader.figshare.com/files/22618247"
+  },
+  {
+    "dataset": "beta",
+    "name": "S25.mat",
+    "size": 79665349,
+    "md5": "e7499d4c46a438c7e33c6187035dd2fd",
+    "url": "https://ndownloader.figshare.com/files/22618253"
+  },
+  {
+    "dataset": "beta",
+    "name": "S26.mat",
+    "size": 79695911,
+    "md5": "17e0b2b60df2156ee5d7a41f81398bec",
+    "url": "https://ndownloader.figshare.com/files/22618256"
+  },
+  {
+    "dataset": "beta",
+    "name": "S27.mat",
+    "size": 79643105,
+    "md5": "e632cc1ade70fb514f7150875b8f12c0",
+    "url": "https://ndownloader.figshare.com/files/22618259"
+  },
+  {
+    "dataset": "beta",
+    "name": "S28.mat",
+    "size": 79228906,
+    "md5": "7b1f7a469d7fad63ba43299a1b6fdce2",
+    "url": "https://ndownloader.figshare.com/files/22618262"
+  },
+  {
+    "dataset": "beta",
+    "name": "S29.mat",
+    "size": 79603343,
+    "md5": "c89775ebff822563e6f68d2a833e6df1",
+    "url": "https://ndownloader.figshare.com/files/22618265"
+  },
+  {
+    "dataset": "beta",
+    "name": "S30.mat",
+    "size": 79534948,
+    "md5": "546b2e3437f57533e6e1c7053b46d11d",
+    "url": "https://ndownloader.figshare.com/files/22621010"
+  },
+  {
+    "dataset": "beta",
+    "name": "S31.mat",
+    "size": 79680904,
+    "md5": "ea0a29cb42ca7e109840011d2ddc413d",
+    "url": "https://ndownloader.figshare.com/files/22621013"
+  },
+  {
+    "dataset": "beta",
+    "name": "S32.mat",
+    "size": 79727079,
+    "md5": "620f3fe03c302806ca61a904c2db0f32",
+    "url": "https://ndownloader.figshare.com/files/22621016"
+  },
+  {
+    "dataset": "beta",
+    "name": "S33.mat",
+    "size": 79676977,
+    "md5": "ec74f3042c73f0bac18128c57aed40d2",
+    "url": "https://ndownloader.figshare.com/files/22621193"
+  },
+  {
+    "dataset": "beta",
+    "name": "S34.mat",
+    "size": 79663191,
+    "md5": "b77cdc009ff20cd9e8836e3b6aa269de",
+    "url": "https://ndownloader.figshare.com/files/22618280"
+  },
+  {
+    "dataset": "beta",
+    "name": "S35.mat",
+    "size": 79471367,
+    "md5": "5e22eb0e3121574d1f83bf683f1dd10c",
+    "url": "https://ndownloader.figshare.com/files/22618283"
+  },
+  {
+    "dataset": "beta",
+    "name": "S36.mat",
+    "size": 79668616,
+    "md5": "ea9384f59a36414c28e4b61ce6e1cd40",
+    "url": "https://ndownloader.figshare.com/files/22618286"
+  },
+  {
+    "dataset": "beta",
+    "name": "S37.mat",
+    "size": 79643643,
+    "md5": "bafff29de7ff77ebe3562251a22d0477",
+    "url": "https://ndownloader.figshare.com/files/22618289"
+  },
+  {
+    "dataset": "beta",
+    "name": "S38.mat",
+    "size": 79626379,
+    "md5": "1e2c8f39befcc0e6070c002687c385e5",
+    "url": "https://ndownloader.figshare.com/files/22618292"
+  },
+  {
+    "dataset": "beta",
+    "name": "S39.mat",
+    "size": 79654187,
+    "md5": "bdcd5f1b43cfea3d2ece41ef8ba16f5d",
+    "url": "https://ndownloader.figshare.com/files/22618295"
+  },
+  {
+    "dataset": "beta",
+    "name": "S40.mat",
+    "size": 79643075,
+    "md5": "7e7ea49d134ebc325b332afe54b180f7",
+    "url": "https://ndownloader.figshare.com/files/22618298"
+  },
+  {
+    "dataset": "beta",
+    "name": "S41.mat",
+    "size": 79671332,
+    "md5": "b202ead57bb50935803f1f86e6c18ea5",
+    "url": "https://ndownloader.figshare.com/files/22618301"
+  },
+  {
+    "dataset": "beta",
+    "name": "S42.mat",
+    "size": 79704391,
+    "md5": "2f3682b81220c28c65dd4c5af636b0c0",
+    "url": "https://ndownloader.figshare.com/files/22618307"
+  },
+  {
+    "dataset": "beta",
+    "name": "S43.mat",
+    "size": 79655484,
+    "md5": "684ab6182ea91d0a9558cfc68788d1dd",
+    "url": "https://ndownloader.figshare.com/files/22618310"
+  },
+  {
+    "dataset": "beta",
+    "name": "S44.mat",
+    "size": 79678202,
+    "md5": "78f0c6742b57e94c04f87f3f3801ad5b",
+    "url": "https://ndownloader.figshare.com/files/22618313"
+  },
+  {
+    "dataset": "beta",
+    "name": "S45.mat",
+    "size": 79693021,
+    "md5": "a98bfefee8d5a8fd1dab7d483b44697e",
+    "url": "https://ndownloader.figshare.com/files/22621196"
+  },
+  {
+    "dataset": "beta",
+    "name": "S46.mat",
+    "size": 79693048,
+    "md5": "4b3074ede320d4855b2318000d8efd1c",
+    "url": "https://ndownloader.figshare.com/files/22620977"
+  },
+  {
+    "dataset": "beta",
+    "name": "S47.mat",
+    "size": 79610980,
+    "md5": "456dcce99c59d15ef90e59f1ec593cd3",
+    "url": "https://ndownloader.figshare.com/files/22618325"
+  },
+  {
+    "dataset": "beta",
+    "name": "S48.mat",
+    "size": 79671059,
+    "md5": "313596bb21d1c07f57ea104e12ef5ebb",
+    "url": "https://ndownloader.figshare.com/files/22621202"
+  },
+  {
+    "dataset": "beta",
+    "name": "S49.mat",
+    "size": 79680664,
+    "md5": "232c1bb31f69174ad1dadec5303c2d45",
+    "url": "https://ndownloader.figshare.com/files/22618331"
+  },
+  {
+    "dataset": "beta",
+    "name": "S50.mat",
+    "size": 79617619,
+    "md5": "6e2a18c6dcd7320284e6a279d2e2055f",
+    "url": "https://ndownloader.figshare.com/files/22621205"
+  },
+  {
+    "dataset": "beta",
+    "name": "S51.mat",
+    "size": 79674642,
+    "md5": "738a09bf59f65ba2e968b851fe9887f8",
+    "url": "https://ndownloader.figshare.com/files/22621208"
+  },
+  {
+    "dataset": "beta",
+    "name": "S52.mat",
+    "size": 79701269,
+    "md5": "4e97f498246e36748c5b7fb80ce44e94",
+    "url": "https://ndownloader.figshare.com/files/22620980"
+  },
+  {
+    "dataset": "beta",
+    "name": "S53.mat",
+    "size": 79650549,
+    "md5": "534a12a8085e1875789f20274b7670f4",
+    "url": "https://ndownloader.figshare.com/files/22621211"
+  },
+  {
+    "dataset": "beta",
+    "name": "S54.mat",
+    "size": 79652869,
+    "md5": "f1abfac90e24310ca95e401c4479a02c",
+    "url": "https://ndownloader.figshare.com/files/22621214"
+  },
+  {
+    "dataset": "beta",
+    "name": "S55.mat",
+    "size": 79620840,
+    "md5": "8212ee80fb5dea796c118ef4d70a1548",
+    "url": "https://ndownloader.figshare.com/files/22618352"
+  },
+  {
+    "dataset": "beta",
+    "name": "S56.mat",
+    "size": 79686612,
+    "md5": "b5f49c2c78395010b6f34ec060951b95",
+    "url": "https://ndownloader.figshare.com/files/22618355"
+  },
+  {
+    "dataset": "beta",
+    "name": "S57.mat",
+    "size": 79651331,
+    "md5": "0b0b92d425ac77c34442ff3897b83eb6",
+    "url": "https://ndownloader.figshare.com/files/22618358"
+  },
+  {
+    "dataset": "beta",
+    "name": "S58.mat",
+    "size": 79666515,
+    "md5": "7c24a71962519682c48ebe5a8b5ed0f8",
+    "url": "https://ndownloader.figshare.com/files/22618361"
+  },
+  {
+    "dataset": "beta",
+    "name": "S59.mat",
+    "size": 79696791,
+    "md5": "012895a9d49458b82953c445a58450a8",
+    "url": "https://ndownloader.figshare.com/files/22618364"
+  },
+  {
+    "dataset": "beta",
+    "name": "S60.mat",
+    "size": 79588838,
+    "md5": "70f7e44925171d503826794330f89b8f",
+    "url": "https://ndownloader.figshare.com/files/22618367"
+  },
+  {
+    "dataset": "beta",
+    "name": "S61.mat",
+    "size": 79661020,
+    "md5": "2906e951d036ec967cf4fa7c52fd4c54",
+    "url": "https://ndownloader.figshare.com/files/22618370"
+  },
+  {
+    "dataset": "beta",
+    "name": "S62.mat",
+    "size": 79710120,
+    "md5": "285e657eb228341b15bcafcb931c428f",
+    "url": "https://ndownloader.figshare.com/files/22618373"
+  },
+  {
+    "dataset": "beta",
+    "name": "S63.mat",
+    "size": 79706593,
+    "md5": "a6713b311e6cb8b240b188511ffe9cab",
+    "url": "https://ndownloader.figshare.com/files/22618376"
+  },
+  {
+    "dataset": "beta",
+    "name": "S64.mat",
+    "size": 79598283,
+    "md5": "1900f28f9e8e086e7b74b6215aa2dc08",
+    "url": "https://ndownloader.figshare.com/files/22618379"
+  },
+  {
+    "dataset": "beta",
+    "name": "S65.mat",
+    "size": 79643143,
+    "md5": "976e8847eab8d0d56797cd2b355b3dd6",
+    "url": "https://ndownloader.figshare.com/files/22618382"
+  },
+  {
+    "dataset": "beta",
+    "name": "S66.mat",
+    "size": 79619006,
+    "md5": "c7299084252123035af5d200d69ccd10",
+    "url": "https://ndownloader.figshare.com/files/22618385"
+  },
+  {
+    "dataset": "beta",
+    "name": "S67.mat",
+    "size": 79682398,
+    "md5": "7481ec3c0d29e6add035623fc1632d0c",
+    "url": "https://ndownloader.figshare.com/files/22618388"
+  },
+  {
+    "dataset": "beta",
+    "name": "S68.mat",
+    "size": 79665529,
+    "md5": "f6ab1d6719c0eafa12bd5bd7940d10b2",
+    "url": "https://ndownloader.figshare.com/files/22618391"
+  },
+  {
+    "dataset": "beta",
+    "name": "S69.mat",
+    "size": 79582031,
+    "md5": "05eafc3ac4c475f554fab0d47df77759",
+    "url": "https://ndownloader.figshare.com/files/22618394"
+  },
+  {
+    "dataset": "beta",
+    "name": "S70.mat",
+    "size": 79634812,
+    "md5": "6e0b15e456e1413caf3eb013a07b6481",
+    "url": "https://ndownloader.figshare.com/files/22618397"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "README.md",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/README.md"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s1.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s1.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s2.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s2.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s3.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s3.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s4.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s4.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s5.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s5.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s6.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s6.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s7.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s7.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s8.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s8.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s9.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s9.mat"
+  },
+  {
+    "dataset": "nakanishi2015",
+    "name": "s10.mat",
+    "url": "https://raw.githubusercontent.com/mnakanishi/12JFPM_SSVEP/master/data/s10.mat"
+  }
+]

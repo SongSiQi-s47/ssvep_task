@@ -1,0 +1,28 @@
+{
+  "algorithm": "fbcca",
+  "selected_by": "validation mean domain accuracy, zero-shot",
+  "calibration_weight": 0.0,
+  "window_seconds": 1.0,
+  "channels": [
+    "CP3",
+    "CPZ",
+    "CP4",
+    "PO3",
+    "POZ",
+    "PO4"
+  ],
+  "sampling_rate_hz": 250,
+  "causal_filter": false,
+  "frequencies_hz": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "teacher_fbcca_weight": 1.0,
+  "teacher_score_scale": 4.0
+}

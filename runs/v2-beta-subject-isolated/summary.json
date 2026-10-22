@@ -1,0 +1,103 @@
+{
+  "frequency_teacher": {
+    "competition_mean_accuracy": 0.4583333333333333,
+    "competition_std_accuracy": 0.03066583634141612,
+    "seeds_evaluated": 3
+  },
+  "student": {
+    "competition_mean_accuracy": 0.548611111111111,
+    "competition_std_accuracy": 0.03437324630767938,
+    "seeds_evaluated": 3
+  },
+  "fbcca": {
+    "accuracy": 0.6145833333333334,
+    "samples": 96,
+    "competition": {
+      "accuracy": 0.6145833333333334,
+      "samples": 96
+    },
+    "mean_domain_accuracy": 0.6145833333333334,
+    "confusion_matrix": [
+      [
+        6,
+        1,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        8,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        1,
+        9,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        3,
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        3,
+        1,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        6,
+        0,
+        0,
+        5
+      ]
+    ]
+  }
+}

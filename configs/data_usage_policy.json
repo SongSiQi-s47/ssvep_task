@@ -1,0 +1,11 @@
+{
+  "updated_date": "2026-10-15",
+  "request": "User confirmed D1/D2 evaluation-only; BETA may train with subject-isolated train/dev/holdout",
+  "scope_confirmed": true,
+  "evaluation_only_sources": ["competition", "nakanishi2015"],
+  "training_sources": ["beta", "benchmark"],
+  "calibration_sources": ["beta", "benchmark"],
+  "legacy_runs": "Exploratory history; do not reuse trained weights for a new validation-only experiment",
+  "prohibited_usage_on_evaluation_only_sources": ["gradient updates", "distillation inputs", "pseudo labels", "support-set calibration", "normalization fitted across evaluation records"],
+  "evaluation_rule": "Freeze parameters on independent development data before evaluating reserved current datasets"
+}

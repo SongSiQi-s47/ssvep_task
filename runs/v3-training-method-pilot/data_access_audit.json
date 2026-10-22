@@ -1,0 +1,20 @@
+{
+  "fitting_and_selection_files": [
+    "data/raw/public/beta/S2.mat",
+    "data/raw/public/beta/S5.mat",
+    "data/raw/public/beta/S10.mat",
+    "data/raw/public/beta/S15.mat",
+    "data/raw/public/beta/S18.mat",
+    "data/raw/public/beta/S25.mat",
+    "data/raw/public/beta/S6.mat",
+    "data/raw/public/beta/S20.mat",
+    "data/raw/public/beta/S51.mat"
+  ],
+  "confirmation_files_open_only_after_selection": [
+    "data/raw/public/beta/S13.mat",
+    "data/raw/public/beta/S23.mat"
+  ],
+  "competition_data_read": false,
+  "beta_holdout_data_read": false,
+  "all_models_freshly_initialized": true
+}

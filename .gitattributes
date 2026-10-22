@@ -1,0 +1,5 @@
+* text=auto
+*.csv -text
+*.pdf binary
+*.pt binary
+

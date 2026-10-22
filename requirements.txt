@@ -1,0 +1,5 @@
+numpy>=1.23
+scipy>=1.10
+requests>=2.31
+torch>=1.12.1
+threadpoolctl>=3.1

@@ -1,0 +1,24 @@
+{
+  "uploaded_date": "2026-10-22",
+  "data_role": "D1/D2 evaluation-only",
+  "files": [
+    {
+      "path": "data/raw/competition/D1.csv",
+      "bytes": 5956291,
+      "sha256": "70262083b3b641c34ada69412a36eb9b415dbe6433f49185cbf1c5e1bbb1fdce",
+      "original_bytes_verified": true
+    },
+    {
+      "path": "data/raw/competition/D2.csv",
+      "bytes": 5927734,
+      "sha256": "78bbd33864eb6f9123e72afac16d1f9ae369a15e9ec0ebaf35174e48552dfdbd",
+      "original_bytes_verified": true
+    },
+    {
+      "path": "data/raw/competition/competition_requirements.pdf",
+      "bytes": 381425,
+      "sha256": "81a8ad91aaa844ccbc330af685e75db1ba6b6e62d5d531388d140d71dc2d4b79",
+      "original_bytes_verified": true
+    }
+  ]
+}

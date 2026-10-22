@@ -1,0 +1,27 @@
+{
+  "project_path": "C:\\Users\\64443\\Desktop\\ssvep_project",
+  "competition_files": [
+    "D1.csv",
+    "D2.csv",
+    "competition_requirements.pdf"
+  ],
+  "competition_trials": 96,
+  "competition_samples_per_trial": 1000,
+  "competition_channels": 6,
+  "public_verified_eeg_files": {
+    "beta": 3,
+    "nakanishi2015": 8
+  },
+  "public_target_eeg_files": {
+    "beta": 70,
+    "nakanishi2015": 10
+  },
+  "background_pid": 29008,
+  "pending": [
+    "competition additional data URL and extraction password",
+    "competition sample rate",
+    "competition stimulus frequency mapping",
+    "competition result template",
+    "external training data rules"
+  ]
+}

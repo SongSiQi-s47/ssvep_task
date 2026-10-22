@@ -1,0 +1,18 @@
+{
+  "seed": 2026,
+  "window_seconds": 1.0,
+  "stride_seconds": 0.5,
+  "epochs": 35,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.001,
+  "patience": 10,
+  "max_beta_subjects": 20,
+  "beta_latency_seconds": 0.14,
+  "distillation_temperature": 3.0,
+  "distillation_alpha": 0.5,
+  "causal_filter": false,
+  "cpu_threads": 4,
+  "evaluation": "D1 training/validation by original trials, D2 held-out file; BETA held out by subject",
+  "calibration": "one labeled original trial per class; exclude support trials from query evaluation"
+}

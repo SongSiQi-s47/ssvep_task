@@ -1,0 +1,21 @@
+{
+  "complete": true,
+  "teacher_gates": {
+    "2026": {
+      "teacher_development_accuracy": 0.6375,
+      "direct_student_development_accuracy": 0.58125,
+      "passed": true
+    },
+    "2027": {
+      "teacher_development_accuracy": 0.6375,
+      "direct_student_development_accuracy": 0.59375,
+      "passed": true
+    },
+    "2028": {
+      "teacher_development_accuracy": 0.6375,
+      "direct_student_development_accuracy": 0.59375,
+      "passed": true
+    }
+  },
+  "reserved_support_calibration": false
+}

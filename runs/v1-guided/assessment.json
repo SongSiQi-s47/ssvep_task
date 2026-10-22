@@ -1,0 +1,7 @@
+{
+  "teacher_stronger_on_validation": true,
+  "distillation_gain_on_validation": -0.08203125,
+  "refinement_selected_using": "validation only; all original test trials unchanged",
+  "single_seed_exploratory": true,
+  "hybrid_teacher_is_not_neural_only": true
+}

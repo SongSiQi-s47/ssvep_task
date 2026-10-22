@@ -1,0 +1,31 @@
+{
+  "candidates": {
+    "balanced_random_crop": {
+      "paired_gains_percentage_points": [
+        -4.1666666666666625,
+        -1.0416666666666685
+      ],
+      "mean_gain_percentage_points": -2.6041666666666656,
+      "eligible": false
+    },
+    "phase_gain": {
+      "paired_gains_percentage_points": [
+        -4.1666666666666625,
+        -3.125
+      ],
+      "mean_gain_percentage_points": -3.6458333333333313,
+      "eligible": false
+    },
+    "phase_gain_cosine": {
+      "paired_gains_percentage_points": [
+        -9.375,
+        -4.166666666666669
+      ],
+      "mean_gain_percentage_points": -6.770833333333334,
+      "eligible": false
+    }
+  },
+  "chosen": null,
+  "confirmation_subjects_not_yet_opened": true,
+  "parameter_search_complete": true
+}

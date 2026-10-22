@@ -1,0 +1,22 @@
+{
+  "file": "S2.mat",
+  "shape": [
+    64,
+    750,
+    4,
+    40
+  ],
+  "finite": true,
+  "metadata_keys": [
+    "sub",
+    "age",
+    "gender",
+    "chan",
+    "freqs",
+    "phases",
+    "bci_quotient",
+    "wide_snr",
+    "narrow_snr",
+    "srate"
+  ]
+}

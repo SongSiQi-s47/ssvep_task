@@ -1,0 +1,23 @@
+{
+  "macro_subject_accuracy": 0.375,
+  "accuracy": 0.375,
+  "subjects": {
+    "S20": {
+      "accuracy": 0.1875,
+      "trials": 32
+    },
+    "S51": {
+      "accuracy": 0.4375,
+      "trials": 32
+    },
+    "S6": {
+      "accuracy": 0.5,
+      "trials": 32
+    }
+  },
+  "trials": 96,
+  "seconds": 3.3269455000008747,
+  "epochs": 30,
+  "gradient_steps": 360,
+  "parameters": 6484
+}

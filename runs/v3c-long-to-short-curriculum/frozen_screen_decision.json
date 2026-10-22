@@ -1,0 +1,15 @@
+{
+  "candidates": {
+    "long_to_short_curriculum": {
+      "paired_gains_percentage_points": [
+        -4.166666666666669,
+        -3.125
+      ],
+      "mean_gain_percentage_points": -3.6458333333333344,
+      "eligible": false
+    }
+  },
+  "chosen": null,
+  "confirmation_subjects_not_yet_opened": true,
+  "parameter_search_complete": true
+}

@@ -1,0 +1,8 @@
+{
+  "samples": 375,
+  "seconds": 1.5,
+  "basis": "Highest bounded-window macro subject accuracy; tie selects 250",
+  "development_decision_only": true,
+  "model_promotion": false,
+  "not_comparable_to_old_scope_accuracy": true
+}
