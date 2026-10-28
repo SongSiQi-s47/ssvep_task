@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "config_sha256": "e2c22bda4fbf0751bdff2581da2b01bb973e0c10f92e45e429f00572840a7e03",
+  "new_test_read": false,
+  "D1_D2_read": false,
+  "keys": [
+    "eegnet_26_2026",
+    "eegnet_26_2027",
+    "eegnet_26_2028"
+  ]
+}

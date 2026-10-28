@@ -1,0 +1,14 @@
+{
+  "protocol": "v9 duration-aware FBCCA, frozen candidate set and untouched BETA confirmation",
+  "train_data": "none; analytic CCA, no fitted parameters",
+  "development_subjects": ["S6", "S20", "S51"],
+  "confirmation_subjects": ["S35", "S29", "S49", "S34", "S59"],
+  "confirmation_rule": "S1..S70 excluding v2 subject roles, v5 new test, v6 additional train/new test, v7 new test and v8 new test; SHA256(v9-duration-fbcca:filename) ascending first 5",
+  "candidates": ["first_1p5", "full", "last_1p5", "first_last_mean"],
+  "fs": 250,
+  "first_or_last_samples": 375,
+  "processing": "crop first, zero-phase Butterworth 6-90 Hz, per-channel standardization, unchanged 3-subband 3-harmonic FBCCA",
+  "selection": "highest BETA development subject-macro accuracy; ties in listed candidate order, requiring >=2 percentage points gain over first_1p5; otherwise baseline",
+  "promotion": "on fresh BETA confirmation, selected candidate needs >=2 percentage points macro gain and >=4/5 subjects non-negative versus baseline; otherwise baseline default",
+  "competition_data": "D1/D2 are historically exposed verification only; never used for fitting, candidate choice, threshold selection or promotion"
+}

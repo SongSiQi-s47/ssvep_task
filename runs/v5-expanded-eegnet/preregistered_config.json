@@ -1,0 +1,73 @@
+{
+  "protocol": "v5 fixed-window BETA subject expansion; D1/D2 evaluation only",
+  "training_groups": {
+    "six": [
+      "S2",
+      "S5",
+      "S10",
+      "S15",
+      "S18",
+      "S25"
+    ],
+    "fourteen": [
+      "S2",
+      "S4",
+      "S5",
+      "S7",
+      "S9",
+      "S10",
+      "S11",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S21",
+      "S24",
+      "S25"
+    ]
+  },
+  "development_subjects": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "new_test_subjects": [
+    "S41",
+    "S61",
+    "S14",
+    "S47",
+    "S19"
+  ],
+  "new_test_selection": "First five unused BETA subject filenames by SHA256('expanded-v1:' + filename), ascending, from S1..S70 excluding all 24 subjects in runs/v2-beta-subject-isolated/subject_roles.json; frozen before reading signal",
+  "historical_example_sets": [
+    "D1_trials",
+    "D2_trials"
+  ],
+  "samples": 375,
+  "stride": 125,
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "epochs": 50,
+  "samples_per_epoch": 768,
+  "batch": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.001,
+  "gradient_clip": 5,
+  "selection": "earliest epoch with maximum development subject macro accuracy, separately for each training group and seed",
+  "primary_unit": "subject; each original trial contributes one first-window prediction",
+  "primary_comparisons": [
+    "EEGNet fourteen minus EEGNet six",
+    "EEGNet fourteen minus fixed FBCCA"
+  ],
+  "confirmation": "All six EEGNet checkpoints and the fixed FBCCA rule freeze before any new-test or D1/D2 labels are read. Report all seeds, no winner selection on confirmation data.",
+  "preprocessing": "crop raw 375-sample window before per-channel 6-90 Hz zero-phase filter and within-window standardization; BETA onset 0.5 s plus 0.14 s latency; no D1/D2 calibration",
+  "known_limitations": [
+    "Development subjects have repeated historical exposure",
+    "D1/D2 are previously viewed small examples, not blind tests",
+    "Five new test subjects give a wide uncertainty interval",
+    "Formal competition metadata and cross-dataset channel alignment remain provisional"
+  ]
+}

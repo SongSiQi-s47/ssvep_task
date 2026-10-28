@@ -1,0 +1,68 @@
+{
+  "D1": {
+    "source_sha256": "70262083b3b641c34ada69412a36eb9b415dbe6433f49185cbf1c5e1bbb1fdce",
+    "trials": 48,
+    "raw_shape": [
+      48,
+      6,
+      1000
+    ],
+    "model_input_shape": [
+      48,
+      6,
+      375
+    ],
+    "fbcca_output_shape": [
+      48,
+      8
+    ],
+    "eegnet_output_shape": [
+      48,
+      8
+    ],
+    "finite": true,
+    "class_counts": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ]
+  },
+  "D2": {
+    "source_sha256": "78bbd33864eb6f9123e72afac16d1f9ae369a15e9ec0ebaf35174e48552dfdbd",
+    "trials": 48,
+    "raw_shape": [
+      48,
+      6,
+      1000
+    ],
+    "model_input_shape": [
+      48,
+      6,
+      375
+    ],
+    "fbcca_output_shape": [
+      48,
+      8
+    ],
+    "eegnet_output_shape": [
+      48,
+      8
+    ],
+    "finite": true,
+    "class_counts": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ]
+  }
+}

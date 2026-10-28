@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "test_subjects": [
+    "S41",
+    "S61",
+    "S14",
+    "S47",
+    "S19"
+  ],
+  "D1_D2_evaluation_only": true
+}

@@ -1,0 +1,60 @@
+{
+  "protocol": "v7 fixed 26 BETA train subjects, longer equal subject exposure, frozen before new test download",
+  "train": [
+    "S2",
+    "S4",
+    "S5",
+    "S7",
+    "S9",
+    "S10",
+    "S11",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S21",
+    "S24",
+    "S25",
+    "S37",
+    "S39",
+    "S44",
+    "S55",
+    "S54",
+    "S68",
+    "S43",
+    "S48",
+    "S30",
+    "S50",
+    "S36",
+    "S38"
+  ],
+  "dev": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "new_test": [
+    "S58",
+    "S45",
+    "S66",
+    "S62",
+    "S33"
+  ],
+  "new_test_rule": "S1..S70 excluding all prior v2 roles, v5 new test, v6 additional training and v6 new test; sort remaining filenames by SHA256(expanded-v7:filename), choose first five",
+  "samples": 375,
+  "stride": 125,
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "epochs": 50,
+  "samples_per_epoch": 1408,
+  "batch": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.001,
+  "gradient_clip": 5,
+  "selection": "earliest maximum dev subject-macro accuracy",
+  "hypothesis": "v6 kept 768 windows per epoch after expanding subjects 14 to 26, lowering per-subject update exposure; scale to 1408 (22 batches vs 12) while preserving number of epochs, subject set, architecture and preprocessing",
+  "confirm": "All models freeze before reading new BETA five; compare v6, v7 and FBCCA on exactly same new BETA trials, then D1/D2 historical validation. No selection on confirmation."
+}

@@ -55,6 +55,22 @@ class EEGNetStudent(nn.Module):
         return (logits,z) if return_features else logits
 
 
+class EEGNetStudentLongKernel(EEGNetStudent):
+    """Same SSVEP head as EEGNetStudent; ~0.5 s temporal kernels at 250 Hz.
+
+    Lawhern et al.'s EEGNet uses a half-second first kernel at 128 Hz and
+    approximately half-second separable kernel after 4x pooling. This is one
+    preregistered timing change, not a reproduction of their full model.
+    """
+    def __init__(self, channels=6, classes=8, f1=8, depth=2, dropout=.25):
+        super().__init__(channels=channels, classes=classes, f1=f1, depth=depth,
+                         dropout=dropout)
+        f2 = f1 * depth
+        self.temporal[0] = nn.Conv2d(1, f1, (1, 125), padding=(0, 62), bias=False)
+        self.separable[0] = nn.Conv2d(f2, f2, (1, 31), padding=(0, 15),
+                                      groups=f2, bias=False)
+
+
 class MultiScaleAttentionTeacher(nn.Module):
     def __init__(self, channels=6, classes=8):
         super().__init__()

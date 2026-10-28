@@ -1,0 +1,118 @@
+{
+  "S2.mat": {
+    "md5": "087c9f4f11c4f86269424c76bd734a15",
+    "sha256": "718b223c0a6524eef0023dc2df64e1685e0f0d4fd0bee53032f08f79140860d4"
+  },
+  "S4.mat": {
+    "md5": "c559e4199ff460c96a012c33711de9d4",
+    "sha256": "fd67c3b97c4b6b71ae307a7c17b4d90b7ab64eec975605fd83f48c62b6488b4e"
+  },
+  "S5.mat": {
+    "md5": "01636214d8abeaed5a141cbaf0c10bc1",
+    "sha256": "d8a317d827f707aab7e218cb0f92c5902a97a2a91c4bab0e852856e10bbeca6a"
+  },
+  "S7.mat": {
+    "md5": "d159f358c634ac5a2ad9fc6c397032bc",
+    "sha256": "ed526151485be82fb8157537bdcbca32796ef628070510cbe14552f4899f2e48"
+  },
+  "S9.mat": {
+    "md5": "17d7df0f47db029047dc4774a8c692b3",
+    "sha256": "a5c428001a1f35e169e4574d4a4b6b2b6ed9cfedd9ceb42febbc8eacb0347d46"
+  },
+  "S10.mat": {
+    "md5": "233b77b687fa5134eef3aead4c1b3bbe",
+    "sha256": "bd22587d7dd713695724c8913d597973be01870e38e4484b7bbbf3d269218774"
+  },
+  "S11.mat": {
+    "md5": "2225db40355be8566a7101164c4ed528",
+    "sha256": "885538657570bbda9b95a477362b3368a00b54e9e4db9dd7bf71e3bca8e352fe"
+  },
+  "S15.mat": {
+    "md5": "9b0638f35bb2832482210ccbf3685d13",
+    "sha256": "981451113812216b25ecd37201a7a0339d6f24d59c4e281389aab21d580d9f6a"
+  },
+  "S16.mat": {
+    "md5": "18486fbd39c075b92f1b37985060b75b",
+    "sha256": "41f689c3afdefb8183100d77397c3504f232f7cc80d5d08f12d7490b11d8f478"
+  },
+  "S17.mat": {
+    "md5": "822e6e4fb6dfbc2158f591c99ad979f6",
+    "sha256": "d92fdfdc46c83e307f02dbdefcebc24656f65e3ded8027bb30f2e960fbd55df4"
+  },
+  "S18.mat": {
+    "md5": "ce63451bd6e80de7b6e4c04aa7340e2f",
+    "sha256": "befef2413bcdbfbe71230852a4b59830c8ce76dba6fb6d190ed6ff9affcee364"
+  },
+  "S21.mat": {
+    "md5": "d5beb6dcd232c4db33e9da54f3c1b8a2",
+    "sha256": "6221ccca5609a55f23439d675722a010fb9bae215c691f2d489873227d24a31d"
+  },
+  "S24.mat": {
+    "md5": "86e4e16151b50d366b887f268132ffef",
+    "sha256": "c1ff91a55f9ae1eb00b8c84655ba8db3dff7580e0aff7c84b0536c3df2582ccb"
+  },
+  "S25.mat": {
+    "md5": "e7499d4c46a438c7e33c6187035dd2fd",
+    "sha256": "335fb6d91208727a1b2db7ae8dbe4e50444e3fab43e71d5fb86776217eeafc79"
+  },
+  "S37.mat": {
+    "md5": "bafff29de7ff77ebe3562251a22d0477",
+    "sha256": "b95294ec7ef57ccd125f6c81a989bab1ce732cefef63c8293b36a6ff0c08230e"
+  },
+  "S39.mat": {
+    "md5": "bdcd5f1b43cfea3d2ece41ef8ba16f5d",
+    "sha256": "f42951c98e441be0372018d872ade68a7723bb4f9040c3abdae51bab1b44d33f"
+  },
+  "S44.mat": {
+    "md5": "78f0c6742b57e94c04f87f3f3801ad5b",
+    "sha256": "8da04517256a4208d87c743c40652896fa3eef2266bfb14efa2922b8c138546f"
+  },
+  "S55.mat": {
+    "md5": "8212ee80fb5dea796c118ef4d70a1548",
+    "sha256": "e0c0e1d896ba851af283565b1d151d0c9675164dd57587e8f5dc27563557623d"
+  },
+  "S54.mat": {
+    "md5": "f1abfac90e24310ca95e401c4479a02c",
+    "sha256": "da8f7f7bcaa8270bd758a4561b2c71daa6111af8ea1afc298331ff319669ce5c"
+  },
+  "S68.mat": {
+    "md5": "f6ab1d6719c0eafa12bd5bd7940d10b2",
+    "sha256": "bfed0fcb2a1cd2fcb03a5edba4c011db4b0c0e4831b3085386c1676c0ca9aac1"
+  },
+  "S43.mat": {
+    "md5": "684ab6182ea91d0a9558cfc68788d1dd",
+    "sha256": "eaaadda0be0b7986e8c61d1665534aed09f9b8ed286b269545e87ec02c8b88cf"
+  },
+  "S48.mat": {
+    "md5": "313596bb21d1c07f57ea104e12ef5ebb",
+    "sha256": "0c44ec5a659e4746238d86184549040fb8f444636900bf8ca7ba6c982193f2bb"
+  },
+  "S30.mat": {
+    "md5": "546b2e3437f57533e6e1c7053b46d11d",
+    "sha256": "5c5e92f42e338c9199d4d58b7b3fb844b0caeda79530e6f286ff22a8a006151b"
+  },
+  "S50.mat": {
+    "md5": "6e2a18c6dcd7320284e6a279d2e2055f",
+    "sha256": "b2a0adf4e6cc85e855bbbc0157513c15e8ec13d39ff822dc117c1c4d739141c6"
+  },
+  "S36.mat": {
+    "md5": "ea9384f59a36414c28e4b61ce6e1cd40",
+    "sha256": "ffd8fd6b27e09e7268ba7c042b71139a2b0d207073c7e627a5f9963ece16f031"
+  },
+  "S38.mat": {
+    "md5": "1e2c8f39befcc0e6070c002687c385e5",
+    "sha256": "bd1da50cded13b9786f3347819f668d5e1dd9a442bccf4dae6aff91b793bb0d8"
+  },
+  "S6.mat": {
+    "md5": "061cd64c64fd0274150f0f59ec6dbc90",
+    "sha256": "79a383b511012b9c83c21692d87ca921629ac03c51dfaeb65300b057ab84a02d"
+  },
+  "S20.mat": {
+    "md5": "3470f49c6b4d0168aa133e429d60ee28",
+    "sha256": "23725405f7f1633094fb2e21c6b3eeaa3a90fafa0e757b9a30e3f553be251b25"
+  },
+  "S51.mat": {
+    "md5": "738a09bf59f65ba2e968b851fe9887f8",
+    "sha256": "db6e104754e813d45ce0b59c8812658bae070f9f1527a5494e112d9ef0e7c763"
+  }
+}

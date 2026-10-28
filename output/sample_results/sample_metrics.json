@@ -1,0 +1,60 @@
+{
+  "protocol": "fixed FBCCA, 375-sample first window, crop before 6-90 Hz zero-phase filter and per-channel normalization; no learned checkpoint or D1/D2 calibration",
+  "status": "historically exposed organizer examples; descriptive validation only, not independent test or formal submission",
+  "files": {
+    "D1": {
+      "source_sha256": "70262083b3b641c34ada69412a36eb9b415dbe6433f49185cbf1c5e1bbb1fdce",
+      "trials": 48,
+      "correct": 33,
+      "accuracy": 0.6875,
+      "predictions_file": "D1_fbcca_predictions.csv"
+    },
+    "D2": {
+      "source_sha256": "78bbd33864eb6f9123e72afac16d1f9ae369a15e9ec0ebaf35174e48552dfdbd",
+      "trials": 48,
+      "correct": 39,
+      "accuracy": 0.8125,
+      "predictions_file": "D2_fbcca_predictions.csv"
+    }
+  },
+  "aggregate": {
+    "trials": 96,
+    "correct": 72,
+    "accuracy": 0.75
+  },
+  "class_correct": {
+    "0": {
+      "correct": 9,
+      "trials": 12
+    },
+    "1": {
+      "correct": 9,
+      "trials": 12
+    },
+    "2": {
+      "correct": 11,
+      "trials": 12
+    },
+    "3": {
+      "correct": 9,
+      "trials": 12
+    },
+    "4": {
+      "correct": 10,
+      "trials": 12
+    },
+    "5": {
+      "correct": 7,
+      "trials": 12
+    },
+    "6": {
+      "correct": 10,
+      "trials": 12
+    },
+    "7": {
+      "correct": 7,
+      "trials": 12
+    }
+  },
+  "note": "CSV files are development predictions; official Excel template and new formal data parser are unavailable"
+}

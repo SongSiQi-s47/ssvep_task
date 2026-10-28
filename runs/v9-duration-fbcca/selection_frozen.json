@@ -1,0 +1,19 @@
+{
+  "complete": true,
+  "config_sha256": "f74df810857e850d866e87ea0bbdb5ef783b55e423eb4ab220721a8838ec904a",
+  "development_subjects": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "confirmation_subjects": [
+    "S35",
+    "S29",
+    "S49",
+    "S34",
+    "S59"
+  ],
+  "selection": "full",
+  "confirmation_read": false,
+  "D1_D2_read": false
+}

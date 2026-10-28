@@ -1,0 +1,62 @@
+{
+  "protocol": "v8 one-architecture timing correction; frozen before training and new-test download",
+  "hypothesis": "At 250 Hz v7 temporal 63 and separable 15 kernels each cover about 0.25 s, whereas EEGNet paper used about 0.5 s at 128 Hz. Test 125/31 timing while retaining SSVEP harmonic head and all other v7 settings.",
+  "train": [
+    "S2",
+    "S4",
+    "S5",
+    "S7",
+    "S9",
+    "S10",
+    "S11",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S21",
+    "S24",
+    "S25",
+    "S37",
+    "S39",
+    "S44",
+    "S55",
+    "S54",
+    "S68",
+    "S43",
+    "S48",
+    "S30",
+    "S50",
+    "S36",
+    "S38"
+  ],
+  "dev": [
+    "S6",
+    "S20",
+    "S51"
+  ],
+  "new_test": [
+    "S56",
+    "S67",
+    "S70",
+    "S69",
+    "S57"
+  ],
+  "new_test_rule": "S1..S70 excluding historical v2 roles, v5 new test, v6 new train/test, v7 new test; order by SHA256(v8-long-kernel:filename); first five are confirmation",
+  "samples": 375,
+  "stride": 125,
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "epochs": 50,
+  "samples_per_epoch": 1408,
+  "batch": 64,
+  "learning_rate": 0.001,
+  "weight_decay": 0.001,
+  "gradient_clip": 5,
+  "model": "EEGNetStudentLongKernel with 125/31 timing, otherwise EEGNetStudent",
+  "selection": "earliest maximum dev subject macro accuracy; no D1/D2 or new test used",
+  "comparison": "v7 same-seed EEGNetStudent, fixed FBCCA, identical windows and test trials",
+  "gate": "To claim stable gain over FBCCA: mean new-test gain >= 2pp and at least 4/5 subjects non-negative; otherwise retain FBCCA. D1/D2 descriptive only."
+}

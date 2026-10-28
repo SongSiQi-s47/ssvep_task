@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "config_sha256": "13435e1727d84692ffa3f9d1235191dcae7d47bb76b21191817c42c17e985d23",
+  "new_test_read": false,
+  "competition_read": false,
+  "model_keys": [
+    "eegnet_six_2026",
+    "eegnet_six_2027",
+    "eegnet_six_2028",
+    "eegnet_fourteen_2026",
+    "eegnet_fourteen_2027",
+    "eegnet_fourteen_2028"
+  ]
+}

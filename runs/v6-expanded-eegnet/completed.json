@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "train_subjects": 26,
+  "new_test_subjects": [
+    "S53",
+    "S46",
+    "S40",
+    "S31",
+    "S12"
+  ],
+  "D1_D2_evaluation_only": true
+}
