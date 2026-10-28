@@ -1,0 +1,13 @@
+{
+  "protocol": "v10 frozen spatial-harmonic FBCCA variants",
+  "development_subjects": ["S6", "S20", "S51", "S35", "S29", "S49", "S34", "S59"],
+  "confirmation_subjects": ["S63", "S32", "S65", "S52", "S42"],
+  "confirmation_rule": "unused BETA S1..S70 after v2 and v5-v9 roles, SHA256(v10-spatial-harmonic:filename) ascending, first 5",
+  "candidates": ["fbcca3_all", "fbcca3_posterior", "fbcca5_all", "fbcca5_posterior", "fbcca2_all", "fbcca3_fusion"],
+  "preprocessing": "full available trial, crop then 6-90 Hz zero-phase Butterworth and channel standardization, 250 Hz, no padding",
+  "posterior_channels": ["PO3", "POZ", "PO4"],
+  "fusion": "equal average of per-trial class-z-scored fbcca3_all and fbcca3_posterior",
+  "selection": "highest development subject-macro accuracy; tie in candidate order; require >=2 percentage points over fbcca3_all",
+  "promotion": "selected method requires >=2 percentage points gain on fresh confirmation and >=4/5 subjects nonnegative versus fbcca3_all; otherwise v9 stays default",
+  "competition_data": "D1/D2 verification only, never used for candidate choice or promotion"
+}
