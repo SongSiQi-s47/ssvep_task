@@ -1,0 +1,33 @@
+{
+  "protocol": "v11 single-reference-per-class BETA block-isolated transfer",
+  "development_subjects": [
+    "S6",
+    "S20",
+    "S51",
+    "S35",
+    "S29",
+    "S49",
+    "S34",
+    "S59"
+  ],
+  "confirmation_subjects": [
+    "S64",
+    "S28",
+    "S60",
+    "S27"
+  ],
+  "confirmation_rule": "remaining unused BETA S1..S70 after v2-v10 roles; SHA256(v11-one-shot-support:filename) ascending; all four reserved",
+  "supports": "for each subject, choose exactly one full original trial per 0..7 class from one BETA block; query is other three blocks; rotate support block 0..3",
+  "candidates": [
+    "fbcca",
+    "template_cca",
+    "fusion_25",
+    "fusion_50"
+  ],
+  "template_cca": "squared canonical correlation between independently 6-90Hz filtered and channel-standardized query and support at matched common length; no fitted spatial weights",
+  "fusion": "class-wise z-score per query, then (1-weight)*FBCCA + weight*template_cca; weights fixed at 0.25 or 0.50",
+  "selection": "subject-macro accuracy over dev, tie in listed order; need >=2 percentage points over fbcca",
+  "promotion": "new BETA subject-macro gain >=2 percentage points and at least 3/4 subjects nonnegative; otherwise v9 remains default",
+  "evaluation_only": "D1/D2 never used as support, train, validation or confirmation; do not evaluate calibration on them",
+  "inference_scope": "same subject/group support and query only, one labeled support per class, no query labels"
+}

@@ -1,0 +1,80 @@
+{
+  "original": [
+    {
+      "subject": "S64",
+      "accuracy": 0.53125,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S28",
+      "accuracy": 0.9375,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S60",
+      "accuracy": 0.875,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S27",
+      "accuracy": 0.8125,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    }
+  ],
+  "reordered": [
+    {
+      "subject": "S64",
+      "accuracy": 0.53125,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S28",
+      "accuracy": 0.9375,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S60",
+      "accuracy": 0.875,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S27",
+      "accuracy": 0.8125,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    }
+  ],
+  "resampled500": [
+    {
+      "subject": "S64",
+      "accuracy": 0.53125,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S28",
+      "accuracy": 0.9375,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S60",
+      "accuracy": 0.875,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    },
+    {
+      "subject": "S27",
+      "accuracy": 0.8125,
+      "prediction_matches_v9": 32,
+      "n_trials": 32
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "subject": "S64",
+    "support_block": 0,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.75
+  },
+  {
+    "subject": "S64",
+    "support_block": 1,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.625
+  },
+  {
+    "subject": "S64",
+    "support_block": 2,
+    "exact_mapping": false,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 5,
+      "5": 4,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.5
+  },
+  {
+    "subject": "S64",
+    "support_block": 3,
+    "exact_mapping": false,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 5,
+      "3": 3,
+      "4": 4,
+      "5": 2,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.25
+  },
+  {
+    "subject": "S28",
+    "support_block": 0,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.875
+  },
+  {
+    "subject": "S28",
+    "support_block": 1,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 1.0
+  },
+  {
+    "subject": "S28",
+    "support_block": 2,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 1.0
+  },
+  {
+    "subject": "S28",
+    "support_block": 3,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.875
+  },
+  {
+    "subject": "S60",
+    "support_block": 0,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 1.0
+  },
+  {
+    "subject": "S60",
+    "support_block": 1,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 1.0
+  },
+  {
+    "subject": "S60",
+    "support_block": 2,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.875
+  },
+  {
+    "subject": "S60",
+    "support_block": 3,
+    "exact_mapping": false,
+    "mapping": {
+      "0": 0,
+      "1": 3,
+      "2": 1,
+      "3": 2,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.625
+  },
+  {
+    "subject": "S27",
+    "support_block": 0,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.75
+  },
+  {
+    "subject": "S27",
+    "support_block": 1,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.875
+  },
+  {
+    "subject": "S27",
+    "support_block": 2,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.875
+  },
+  {
+    "subject": "S27",
+    "support_block": 3,
+    "exact_mapping": true,
+    "mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7
+    },
+    "support_prediction_accuracy": 0.75
+  }
+]
